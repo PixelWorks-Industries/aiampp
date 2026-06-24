@@ -1,0 +1,389 @@
+# AI Amplifier Website Content: Comprehensive Extraction
+## Global Elements
+### Metadata (from index.html)
+- **Title:** AI Amplifier Corporation
+- **Meta Description:** AI Amplifier helps CEOs and PE-backed businesses turn AI ambition into business impact with compact, production-ready strategy and execution engagements.
+- **Theme Color:** #22285B
+- **OG Title:** AI Amplifier Corporation
+- **OG Description:** AI Amplifier helps CEOs and PE-backed businesses turn AI ambition into business impact with compact, production-ready strategy and execution engagements.
+- **OG URL:** https://aiamplifier.com/
+- **OG Image:** /assets/logo-white.png
+### Navigation Menu (from StaggeredMenu.jsx & Navigation.jsx)
+- **Items:**
+1. Home (Aria: Go to home page)
+2. Services (Aria: View our services)
+3. Case Studies (Aria: View our work)
+4. About (Aria: Learn about us)
+5. Contact (Aria: Get in touch)
+- **CTA Button:** Apply for a seat
+- **Skip Link:** Skip to content
+### Social Links (from App.jsx)
+- LinkedIn: https://linkedin.com
+- Twitter: https://twitter.com
+- GitHub: https://github.com
+### Footer (from Footer.jsx)
+- **Links:** Services, Case Studies, About, Contact
+- **Copyright:** © 2026 · aiamplifier.com
+---
+## 1. Home Page (Home.jsx)
+### Hero Section
+- **Eyebrow:** Strategy that survives the customer · Execution that survives the competition
+- **Headline:** Reinvent your business model *before the industry reinvents it for you.*
+- **Subtext:** For mid-market CEOs and PE operating partners facing AI-driven disruption — ready to compound their advantage, and shape the industry rather than follow it.
+- **Actions:**
+- Apply for a seat →
+- See the four engagements
+- **Aside Tagline:** We answer one decision in one month. The rigor of a top-tier strategy house, plus an Enterprise AI platform that ships to production, owned by your team.
+- **Domain Display:** aiamplifier.com
+### Key Stats
+- **$50B+**: shareholder value generated
+- **30 years**: operator + advisor
+- **~1 month**: to market-ready attack plan8
+- **16 weeks**: to production workflow
+### The Promise
+- **Lead:** Many expensive AI strategy decks survive the boardroom. **Almost none survive the customer.**
+- **AI Amplifier · The decision:** We exist for one decision: reinvent your business model now, or lead the next cycle, or play catch-up in it. We answer it in one month, under one accountable team.
+- **Robert Hackl · The judgment:** $50B+ in shareholder value created across telecom and enterprise technology — the rare combination of deep customer insight, industry-rule independence, and technology fluency to unlock hidden value.
+- **DotKonnekt · The engine:** Full-stack enterprise AI platform with zero cloud, model, and framework lock-in. Built by embedded engineers, owned by your team. A proven execution engine in one engagement.
+- **Closing:** The work moves you past AI exploration. After our joint success, the only question you will ask: **what should we attack next?**
+### Proof — Three Industries, Same Pattern
+- **5× volume | Vodafone · Xchange**: Trade-in volume vs. price guarantee. NPS +32 over industry.
+- **NPS 19 → 73 | David's Bridal · Pearl AI**: Built with DotKonnekt. Addressable market widened from ~$4B (dresses) to ~$65B (full wedding journey).
+- **7.1× CR | Coleman Furniture**: Visual AI turns taste into discovery. Average order value +29%.
+### Four Flagship Engagements (Overview)
+1. **01 · Front Door | The AI Amplifier Briefing**: 1 month · Market-ready attack plan (then one quarter to production)
+2. **02 · Strategy + Execution | Agentic Operating Model**: 1 month · Decision-grade agentic roadmap (then one quarter to production)
+3. **03 · Value Creation | Value Targeting**: 1 month · Hidden EBITDA located and sized (Kick start hidden value extraction)
+4. **04 · Market Entry | North America Entry Sprint**: 6–8 weeks · Defensible go / no-go (Bottom-up go / no-go)
+### Home CTA
+- **Headline:** Start the conversation.
+- **Subtext:** If the next nine months will decide your AI position — start here. We respond personally, within 24 hours.
+- **Details:**
+- Email: advisory@aiamplifier.com
+- Website: www.aiamplifier.com
+- Jurisdiction: Incorporated in Florida, USA
+---
+## 2. Services Page (Services.jsx)
+### Hero
+- **Breadcrumb:** Home / Services
+- **Headline:** Four flagship engagements.
+- **Lede:** Each is productized — **fixed fee, fixed scope, market-ready**. Start at the front door, or enter where the pressure already is. One accountable team throughout.
+### Service Cards
+- **01 · Front Door | The AI Amplifier Briefing**
+- **Kicker:** Independent · Attack-ready
+- **Description:** One decision, answered in a month: reinvent your business model now, or lead the next cycle. A diagnostic sharper than your last consulting engagement — guaranteed.
+- **Chips:** 1 mo attack plan, $95K fixed-fee, 3 outputs
+- **CTA:** Explore the Briefing →
+- **02 · Strategy + Execution | Agentic Operating Model**
+- **Kicker:** With DotKonnekt
+- **Description:** AI Amplifier provides the judgment. DotKonnekt provides the execution engine that ships it. A decision-grade agentic roadmap in one month, then live workflows in a quarter, owned by your team. No lock-in.
+- **Chips:** 1 mo agentic roadmap, 1 quarter to production, 2–3 workflows
+- **CTA:** Explore the model →
+- **03 · Value Creation | Value Targeting**
+- **Kicker:** For founders & PE operating partners
+- **Description:** Where is the next $X million of EBITDA hiding — and what's stopping you from pulling it? Six dimensions diagnosed, with an exit-acceleration attack plan in one month.
+- **Chips:** 1 mo attack plan, 6 dimensions, 3–5 levers
+- **CTA:** Explore Value Targeting →
+- **04 · Market Entry | North America Entry Sprint**
+- **Kicker:** Bottom-up · Independent · Attack-ready
+- **Description:** Bottom-up sizing and corporate-buyer interviews produce a market-defensible attack plan — a clear go / no-go in 6–8 weeks. Readiness, not "options to explore."
+- **Chips:** 6–8 weeks, $95K fixed-fee, 8–15 interviews
+- **CTA:** Explore the Sprint →
+### Services Callout
+- **Headline:** Where to start
+- **Text:** Not sure which door is yours? **Start with the Briefing.** It's the front door — one month to a market-ready attack plan, and the honest basis for everything that follows. If by Day 10 it isn't sharper than your last engagement, we refund the full fee.
+- **Buttons:**
+- Start with the Briefing →
+- Talk to Robert
+---
+## 3. Case Studies (CaseStudies.jsx)
+Hero
+Breadcrumb: Home / Case Studies
+Context: Case study · Cybersecurity · North America entry
+Headline: The educated early follower wins North America.
+Sub-headline: European Cyber Security Company · a 6-week Sprint, bottom-up validation, and a market-defensible attack plan.
+Engagement at a Glance (Stats)
+6 weeks: Engagement duration
+10: Corporate-buyer interviews
+8 of 13: Key buying factors validated
+1 output: Market-defensible attack plan
+Situation & Complication
+Lead: Capital on the table. Sixty days to a defensible answer.
+Context: An established European cybersecurity provider with a proven Tier-1 telco footprint — and 60 days to decide whether North America was the next leg of growth.
+Challenge: A decision of this size, made without bottom-up sizing, localized buyer evidence, or targeted positioning, would put significant capital against legacy industry assumptions — exactly the path that takes 75% of expansions short.
+Resolution & Deliverables
+Lead: Bottom-up rigor, from the operator level up.
+Proof Grid:
+$2.5B | Bottom-up market modeling: Year-5 SOM, sized at the operator and segment level — not top-down.
+10 | Corporate-buyer interviews: Key Buying Factors validated directly with the people who write the purchase order.
+Comprehensive | Targeted entry strategy: Operator leads, positioning, product roadmap, readiness assessment, and 5-year economics — in one synthesized plan.
+Measurable Outcomes
+Lead: Aligned with the SLT. Ready for the capital decision.
+Checklist:
+Product roadmap — make / partner decisions, approved.
+North America positioning defined against the buyer view.
+GTM strategy down to high-potential targets and named leads.
+Investment case and funding ask, sized.
+Rigor Callout: Bottom-up TAM / SAM / SOM at the operator level · KBF validation through primary interviews · build / partner / defer matrix · 5-year investment case.
+NDA Note: Operator names, partner shortlists, and granular financial projections are held under NDA. Full case materials available on request.
+---
+## 4. About Page (About.jsx)
+### Hero
+- **Breadcrumb:** Home / About
+- **Headline:** Who you'll work with.
+- **Lede:** High-stakes transformation for CEOs and PE-backed businesses **ready to reinvent.**
+### Profile Section
+- **Portrait Alt:** Robert Hackl, Founder and Principal of AI Amplifier Corporation
+- **Eyebrow:** Founder & President
+- **Role:** Robert Hackl — AI Transformation Architect & Change Agent
+- **Highlights:**
+Bold ideas, executed. Over 30 years at the intersection of customer experience, technology, and business-model disruption, Robert has built market-leading growth organizations by turning complexity into clarity, underperformance into profitable growth, and disengaged teams into believers — work that has unlocked hidden value and contributed to more than $50B in shareholder value.
+### Executive Track Record
+As Global President, CMO, and Board Director at MCE Systems, he repositioned the company from a product vendor to a platform-led AI innovator in device lifecycle management — forging strategic partnerships with AWS and TELUS, and launching the telecom industry's first agentic AI deployment in smart device care. His teams won 11 global gold technology awards and were named Telecoms Marketing Team of the Year, 2023. Before all of this, he built his transformation foundation at McKinsey & Company, advising boards on large-scale, mostly B2B transformations. Today, Robert works with SLTs to surface the business- and operating-model moves AI makes possible — often the first conversation that becomes a Briefing.
+"My time with Robert was career-defining. He helped us break industry rules, deliver what others could not, and unlock my leadership potential."
+### Background
+PhD in Marketing from WU Vienna (High Distinction). MBA from the Kellogg School at Northwestern, ranked first of class. Dual master's degrees in commerce (WU Vienna) and international management (HEC Paris, CEMS). Three executive certifications in Applied AI from Kellogg. Fellow of The Marketing Academy (2020). Published thought leader on transformation, customer experience, and AI, including the Forbes AI series. Fluent in English, German, French, and Spanish.
+### Strategic Partnership · DotKonnekt
+- **Lead:** Production AI in weeks. Owned by your team, with no lock-in.
+- **Description:** DotKonnekt brings a full-stack AI platform, domain depth, and embedded engineers who build production AI inside your business and transfer it to your team, and Humaine Labs — the workforce capability arm — so the people who own the AI after handoff actually know how to run it. AI in your systems and workflows in weeks, not years. Owned by you.
+- **Split View:**
+- **Context Intelligence**: AI strategy and industry-aligned workflows.
+- **AI Execution Platform**: A full-stack Enterprise AI Studio. Cloud, model, and framework agnostic.
+- **Embedded Delivery**: Forward Deployed Engineers + production ops.
+- **Workforce Capability · Humaine Labs**: Practitioner-led AI upskilling for the teams that will run the workflows. 1,000+ professionals trained.
+Our Values
+Lead: How we work — and when we say no.
+Courage: Leave the industry script to reinvent the business model.
+Urgency: Move first — advantage compounds for whoever does.
+Independence: We sell judgment, not the answer.
+Operator ownership: Your people own the work after we hand off.
+Productized discipline: Fixed fee, fixed scope, market-ready.
+* Honest fit: We tell CEOs clearly when we're not the right partner.
+### About CTA
+- **Headline:** Turn AI ambition into business impact.
+- **Subtext:** Fast. With one accountable team — judgment and execution in a single engagement.
+- **Buttons:**
+- Start the conversation →
+- See the engagements
+---
+## 5. The AI Amplifier Briefing (Audit.jsx)
+### Hero
+- **Breadcrumb:** Home / Services / AI Amplifier Briefing
+- **Headline:** The AI Amplifier Briefing
+- **Lede:** **Independent. Market-ready. One month.** One decision answered with the rigor of a top-tier strategy house — lead the next cycle, or play catch-up in it.
+### Engagement Specs (Stats)
+- **1 month**: Fixed timeline
+- **$95K**: Fixed-fee · by application
+- **4 / qtr**: Seats — capped by design
+- **3 outputs**: SLT · Attack plan · 30-day plan
+### Why the window is open — for now
+- **Lead:** Three realities to act on ** before the operators who move first take the position.**
+- **01 | The advantage is consolidating **
+- **Big Num:** ~145k
+- **Text:** tech jobs cut in 2026 so far — about 979 a day. Oracle 30,000 in Q1. Amazon 16,000+. Meta 8,000. Roughly 25% attributed directly to AI and automation. The operating-cost reset is real — and it's available to whoever moves on it first.
+- **Sources:** TrueUp · Crunchbase · KORE1 · NPR
+- **02 | The capital is rewiring the economy**
+- **Big Num:** $690B
+- **Text:** hyperscaler CapEx in 2026 — about $450B AI-specific, near 1.9% of US GDP, larger than Apollo + the Interstate Highway combined. The infrastructure is being built for you — the question is whether you're using it before your competitors do.
+- **Sources:** Futurum · Introl · CreditSights 2026
+- **03 | The 12-month window is yours to take **
+- **Big Num:** 94%
+- **Text:** of AI deployments see no significant value (McKinsey) — meaning the field is wide open for the 6% who decide with conviction. 47% of CEOs already know their AI pace is too slow. The advantage isn't AI itself — it's how fast you decide and how well you know your customer.
+- **Sources:** McKinsey, AI Amplifier Analysis
+- **Wait Note:** Decide with conviction now. Three advantages compound for you. — ** This is what the Briefing delivers.**
+- **Channel**: lock distribution before AI-native firms reach your customers.
+- **Talent**: hire the AI operators who set the next 24 months of velocity.
+- **Pricing power**: set the AI cost floor before someone else sets it for you.
+### Who this is for
+- **Lead:** Built for the CEO making the call.
+- **The CEO | Revenue $100M – $2B**: Privately held, family-owned, or recently public. Ready to lead the next cycle, not be repriced by it. Buyer: CEO only · $50K – $150K decision authority.
+- **What triggers the Briefing**:
+- **Board** — AI has reached the boardroom, and the answer needs to be sharper than a pilot update.
+- **Competition** — AI-native entrant has shown up in your channel, and the response needs to be an attack plan, not a reaction.
+- **Capital** — reinvention capital is on the table and the next 30 days decide where it goes.
+- **Not for:** CIOs / CTOs · pre-revenue founders · no defensible home position.
+### Process & Deliverables
+- **The 1-month diagnostic**:
+- **Wk 1 | Desk Research**: Competitive mapping, friction analysis, and AI-exposure assessment.
+- **Wk 2 | Executive Interviews**: Strategic intent and fear surfaced from CEO, SLT, and board.
+- **Wk 3 | Synthesis**: Three Gears assessment, business-model options, and pressure test.
+- **Wk 4 | Stakeholder Alignment**: Findings aligned with SLT and board ahead of the market-ready attack plan.
+- **Walk out with**:
+- ** Market-ready attack plan **: The call, made. Defensible. Sized.
+- **SLT-grade summary**: Alignment in one leadership meeting.
+- **30-day action plan**: What to do now, and what to authorize.
+- **Clear next step**: A Stage 2 path — or an honest no-go.
+### Final Callout · The Guarantee
+- **The Path:** **Stage 1** — the 1-month diagnostic and Market-ready attack plan . **Stage 2** — a 3-4 months execution sprint with DotKonnekt that turns the attack plan into production-grade workflows.
+- **The Guarantee:** If by **Day 10** the briefing isn’t sharper than your last consulting engagement, we refund the full fee. No questions.
+- **Buttons:**
+- Apply for a seat →
+- See the 3–4 month execution sprint →
+---
+## 6. Agentic Operating Model (AgenticOperatingModel.jsx)
+### Hero
+- **Breadcrumb:** Home / Services / Agentic Operating Model
+- **Headline:** Agentic Operating Model
+- **Lede:** AI Amplifier provides the **judgment**. DotKonnekt provides the **execution engine**. A 1-month decision-grade agentic roadmap, then live workflows in 1 quarter — not a POC.
+### Engagement Specs (Stats)
+- **1 month**: SLT-level decision grade agentic roadmap
+- **1 quarter**: Sprint to production
+- **2–3**: Workflows in live operation
+- **1 team**: AI Amplifier with DotKonnekt
+### Beyond the pilot
+- **Lead:** Why the 12% who reach production with agentic AI are compounding their lead — ** and how to be among them.**
+- **01 | The agentic wave is here**
+- **Big Num:** 40%
+- **Text:** of enterprise apps will feature agentic AI by 2026, up from just 5% in 2025. The operators building agentic workflows now set the bar competitors will be measured against in 2027.
+- **Sources:** Gartner
+- **02 | The 12% in production are pulling away **
+- **Big Num:** 88%
+- **Text:** of AI agent projects never reach production. The 12% who do earn 171% ROI globally — 192% in the U.S. — and the gap to everyone else compounds every quarter.
+- **Sources:** Gartner · MIT · Deloitte / Accenture 2026
+- **03 | Scope discipline decides**
+- **Big Num:** 34%
+- **Text:** of failures are scope creep; 27% insufficient tool or data access; 14% security blockers. AI itself is rarely the problem — governance, infrastructure, and scope are. Each one is solvable with a joint operating model — strategy plus execution in one accountable team.
+- **Sources:** Digital Applied 2026 · synthesis of Gartner + McKinsey + IDC
+### The Joint Stack
+- **Lead:** One accountable team. Two distinct contributions.
+- **AI Amplifier brings · Judgment**:
+- Customer-truth lens, including the internal view.
+- Target strategic agentic-model design.
+- Business case and value tracking.
+- Change-management narrative and CEO story.
+- **DotKonnekt brings · The execution engine**:
+- Context Intelligence — AI strategy, roadmap, workflows.
+- AI Execution Platform — the Vertical AI Studio.
+- Embedded Delivery — Forward Deployed Engineers + ops management.
+- **Why DotKonnekt:** faster to production · lower risk · embedded partnership · deep vertical context.
+### What triggers the engagement
+- **Lead:** For the business leader who needs production, not a deck.
+- **01 | Pilots not moving**: Stuck in POC. Board patience running out.
+- **02 | Competitor in production**: A peer has deployed. The race has started.
+- **03 | Roadmap demand from above**: The board, owner, or investor is asking what the next 18 months of AI looks like — and the answer can't be a deck.
+- **04 | Strategic event ahead**: 18–24 months to an exit, IPO, or funding round.
+- **Not for:** lack of strategic clarity (start with the Briefing) · pilot collectors · IT-owned transformations.
+### Sponsor & Deliverables
+- **The sponsor**:
+- **Who | The Business Leader**: CEO, business head, or business owner — sponsoring a tactical AI roadmap and build / buy / partner decisions.
+- **Then | Production, not theatre**: Strategy without execution is theatre. Execution without strategy is waste. The joint engagement is built for the moment in between.
+- **Walk out with**:
+- **2–3 workflows in production**: Deployed, tested, monitored — not a POC.
+- **Governance + guardrails in place**: Criteria, evaluation framework, architectural guardrails.
+- ** Market-tested value evidence **: ROI tracked, outcome captured, value proven in production.
+- **A team that can actually run it**: Workforce capability — built with Humaine Labs — so your operators own the agentic workflows from day one, not month nine.
+### Agentic Final Callout
+- **Closing:** Beyond the pilot. The 12% who ship earn 171–192% ROI. ** The other 88% ** never get past the POC. Strategy without execution is theatre — let's build the part that ships.
+- **Buttons:**
+- Discuss your agentic move →
+- Start with the Briefing
+---
+## 7. Value Targeting (ValueCreationAudit.jsx)
+### Hero
+- **Breadcrumb:** Home / Services / Value Targeting
+- **Headline:** Value Targeting
+- **Lede:** Where is the next $X million of EBITDA hiding — in the portfolio company you own, or the one you're about to buy? A one-month diagnostic with an attack plan that accelerates the exit — then a kick-start to hidden value extraction.
+### Engagement Specs (Stats)
+- **1 month**: Diagnostic +  exit-acceleration attack plan
+- **6**: Dimensions — revenue to org to AI
+- **$150K**: Min scope · 4 seats / quarter
+- **18 mo**: EBITDA lever horizon
+### Where the next value lives
+- **Lead:** Three realities to act on ** the exit window doesn't wait, but the value is already inside the asset, owned or prospective.**
+- **01 | The exit backlog is real**
+- **Big Num:** 52%
+- **Text:** of buyout inventory has been held more than four years — 16,000 companies in the exit backlog. Hold periods are at a historic high of 6.6 years, up from 6.1 on average over 2011–20.
+- **Sources:** McKinsey GPMR 2026 · Beating the Odds
+- **02 | The plateau hides the next thesis**
+- **Big Num:** 19%
+- **Text:** early-exit rate today, collapsed from 30% before. Meanwhile continuation vehicles tripled — from ~$38B in 2020 to $115B in 2025 — as LPs demand cash. The plateau is also where the AI value-levers are most underpriced.
+- **Sources:** Dechert · CAIA · Syndikos
+- **03 | The value is already there**
+- **Big Num:** 1 month
+- **Text:** 1 month is all it takes for Value Targeting to surface where the next EBITDA is hiding — durable revenue, pricing leverage, and AI value-levers the original thesis missed, or that a new thesis can be built on.
+- **Sources:** AI Amplifier
+### Who this is for
+- **Lead:** Two doors. One diagnostic.
+Door A · Founder / Scale-up CEO: Founder or post-Series-C CEO of a >$30M company. The plateau is real. The board's patience is finite.
+Door B · PE Operating Partner: An OP managing a portfolio company >$20M revenue, 18–36 months from intended exit. The original thesis needs re-underwriting.
+Door C · PE Deal Team: Partner, Principal, or VP underwriting a target — looking for the AI value-creation thesis that justifies the bid and accelerates the eventual exit.
+- **Not for:** pre-PMF or turnaround assets · pure financial restructuring plays · CEO-replacement situations.
+- **Engagement Triggers**:
+- **01 | 3–4 yrs in the hold**: Re-underwriting cadence for active portfolio assets.
+- **02 | 18–24 mo before exit**: Exit-readiness — close the gap to the deal-model thesis.
+- **03 | The plan signed off, not delivering: Budget is being missed quarter over quarter. The original Value Creation Plan needs a reset, not a relaunch.
+- **04 | 04 | The next buyer will diagnose this before you do: An AI-fluent acquirer will spot the value levers you haven't pulled — and re-price the asset accordingly. Find them first. - ** 05 | Live bid with an AI thesis: Diligence window on a target where AI-amplifiable value is the bid case. The thesis needs validation before close — six dimensions diagnosed in compressed time.
+### Six dimensions diagnosed
+- **Lead:** From customer truth to a Value Creation Plan v1.
+- **Dimensions:**
+1. Customer truth & NRR
+2. Pricing & packaging leverage
+3. GTM productivity
+4. AI value-lever map
+5. Org maturity & bandwidth
+6. Value Creation Plan v1
+- **The Foundation**:
+- **Truth | Customer-truth foundation**: 12–20 interviews. Durable revenue located.
+- **Price | Pricing opportunity sized**: List-vs-realized gap closed on paper.
+- **Walk out with**:
+- **Value Creation Plan v1**: 3–5 prioritized levers, customer-truth grounded.
+- ** Exit-ready narrative **: The exit story, built.
+- **Clear next step**: Stage 2: Agentic Operating Model with DotKonnekt.
+### Value Creation Final Callout
+- **Closing:** Closing: The value play. Where is the next ** $X million of EBITDA ** hiding — owned, or about to be bought? A one-month diagnostic delivers the exit-acceleration attack plan — then kick-starts hidden value extraction.
+- **Buttons:**
+- Discuss your value play →
+- Then: Stage 2 execution
+---
+## 8. North America Market Entry Sprint (MarketEntrySprint.jsx)
+### Hero
+- **Breadcrumb:** Home / Services / North America Entry Sprint
+- **Headline:** North America Market Entry Sprint
+- **Lede:** Bottom-up sizing. Corporate-buyer interviews. A ** market-defensible go / no-go — a bottom-up entry attack plan ** in 6–8 weeks. The Sprint produces readiness — not "options to explore."
+### Engagement Specs (Stats)
+- **6–8 wks**: Fixed sprint window
+- **$95K**: Fixed-fee · by application
+- **8–15**: Corporate-buyer interviews
+- **75%**: Fail rate without structured entry
+### Why the disciplined second entrant wins
+- **Lead:** Three realities to act on ** if you intend to be the operator the pioneer made room for.**
+- **01 | The base rate is 75%**
+- **Big Num:** 75%
+- **Text:**  of international expansion attempts fall short. The diligence math is stark: a $95K sprint versus a $1M–$3M+ wrong entry. The 25% who win are not the first to arrive — they are the first to arrive with bottom-up evidence.
+- **Sources:** Wise / Altios 2025
+- **02 | First-mover advantage is a myth**
+- **Big Num:** 47%
+- **Text:** first-mover failure rate, with the pioneers capturing only ~10% share at peak. The advantage accrues to the disciplined second entrant — early followers fail just 8% of the time and reach 28% share, informed by what the pioneer got wrong.
+03 | The window is narrow
+Big Num: 2–3×
+Text: what late entrants pay to catch up. Channel partners, the best talent, and reference customers lock in before late arrivals.
+Sources: AI Amplifier analysis
+Who this is for
+Lead: The scale-up CEO with a plan, ready to attack.
+The Scale-up CEO | Revenue $25M – $250M: Strong domestic position, profitable. European or Asia-Pacific origin — entering North America for the first time. Ready to enter as the disciplined early follower, not the celebrated first mover. Buyer: CEO. Budget: operating reserve — a strategic allocation.
+What triggers the Sprint:
+Growth ceiling — home-market growth is saturated; the next leg has to come from somewhere new.
+Early-follower window — first-mover risk has passed; the window to enter as an educated early follower is open.
+Capital commitment ahead — a go / no-go decision on US entry capital is needed in 60–120 days, with a defensible answer.
+Not for: without a strong domestic base · pure expansion-via-acquisition plays · seeking a hired-gun country manager.
+Diagnostic Framework
+Lead: Six lenses, bottom-up.
+01 | Market Opportunity — TAM · SAM · SOM, bottom-up
+02 | Competitive Advantage — Buyer view vs. product reality
+03 | Entry Feasibility — Key buying factors · capability gaps
+04 | Winning Entry Strategy — Geography × mode matrix
+05 | Business Case — 5-year ramp · EBITDA bridge · investment
+06 | SLT Workshop Focus — Deep-dive areas
+Be the educated early follower
+10% — First movers capture ~10% share … and fail 47% of the time.
+28% — Early followers capture 28% share … at an 8% failure rate. The Sprint's bottom-up entry attack plan gets you there.
+Walk out with
+Market-defensible attack plan — A go / no-go decision with bottom-up rationale.
+SLT-grade decision pack — Alignment in one leadership meeting.
+90-day execution roadmap — First actions and milestones.
+Clear next step — Stage 2 NA build, or an honest no-go.
+Final Callout · Be the educated early follower
+Closing: First movers don't win. Early followers do — but only the disciplined ones, armed with bottom-up validation before they spend a dollar. Six weeks. One attack plan. No "options to explore."
+Buttons:
+Validate your US entry →
+See the Cyan case study
