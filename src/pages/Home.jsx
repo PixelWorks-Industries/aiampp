@@ -4,9 +4,9 @@ import FloatingLines from '../components/FloatingLines';
 import ScrollReveal from '../components/ScrollReveal';
 
 const proofs = [
-  { metric: '5× volume', company: 'Vodafone · Xchange', text: 'Trade-in volume vs. price guarantee. NPS +32 over industry.' },
-  { metric: 'NPS 19 → 73', company: 'David\'s Bridal · Pearl AI', text: 'Built with DotKonnekt. Addressable market widened from ~$4B (dresses) to ~$65B (full wedding journey).' },
-  { metric: '7.1× CR', company: 'Coleman Furniture', text: 'Visual AI turns taste into discovery. Average order value +29%.' }
+  { metric: '5× volume', company: 'Vodafone · Xchange', text: 'Trade-in volume vs. price guarantee. NPS +32 over industry.', path: '/vodafone-trade-in' },
+  { metric: 'NPS 19 → 73', company: 'David\'s Bridal · Pearl AI', text: 'Built with DotKonnekt. Addressable market widened from ~$4B (dresses) to ~$65B (full wedding journey).', path: '/davids-bridal' },
+  { metric: '$2.B new SOM', company: 'European Cyber Security company', text: 'Targeted entry strategy with position, product roadmap, operator-led attack plan and 5 year BC', path: '/north-america-entry' }
 ];
 
 const engagements = [
@@ -103,7 +103,7 @@ export default function Home() {
         <div className="wrap">
           <ScrollReveal>
             <div className="section-head">
-              <span className="eyebrow">The Promise</span>
+              <span className="eyebrow">THE OPPORTUNITY AND THE AI AMPLIFIER PROMISE</span>
               <p className="lead">Many expensive AI strategy decks survive the boardroom. <b>Almost none survive the customer.</b></p>
             </div>
           </ScrollReveal>
@@ -135,19 +135,19 @@ export default function Home() {
       <section className="block alt" id="proof">
         <div className="wrap">
           <ScrollReveal>
-            <div className="section-head">
+            <div className="section-head center">
               <span className="eyebrow">Proof — three industries, same pattern</span>
               <p className="lead">Customer truth, turned into measurable value.</p>
             </div>
           </ScrollReveal>
           <ScrollReveal>
-            <div className="proof-grid mid-wide">
+            <div className="proof-grid mid-wide" style={{ justifyContent: 'center' }}>
               {proofs.map((item) => (
-                <div key={item.company} className="proof">
+                <Link key={item.company} to={item.path} className="proof">
                   <div className="metric">{item.metric}</div>
                   <div className="co">{item.company}</div>
                   <p>{item.text}</p>
-                </div>
+                </Link>
               ))}
             </div>
           </ScrollReveal>
