@@ -1,0 +1,404 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>North America Entry · European Cyber Security Company · Case Study · AI Amplifier Corporation</title>
+    
+    <!-- Clean Google Fonts replacing the 5MB Base64 fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Goldman:wght@400;700&family=Hanken+Grotesk:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+
+    <style>
+        :root {
+            --navy: #22285B;
+            --navy-deep: #1A1F47;
+            --navy-panel: #2A3169;
+            --navy-line: rgba(255, 255, 255, 0.13);
+            --gold: #E3B54C;
+            --white: #FFFFFF;
+            --mist: rgba(255, 255, 255, 0.66);
+            --mist-dim: rgba(255, 255, 255, 0.46);
+
+            --display: 'Goldman', system-ui, sans-serif;
+            --body: 'Hanken Grotesk', system-ui, sans-serif;
+
+            --maxw: 1240px;
+            --pad-x: clamp(22px, 5vw, 72px);
+        }
+
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        html { scroll-behavior: smooth; }
+        body {
+            background: var(--navy);
+            color: var(--white);
+            font-family: var(--body);
+            font-size: 18px;
+            line-height: 1.62;
+            font-weight: 400;
+            -webkit-font-smoothing: antialiased;
+            text-rendering: optimizeLegibility;
+            overflow-x: hidden;
+        }
+        
+        a { color: inherit; text-decoration: none; }
+        .wrap { max-width: var(--maxw); margin: 0 auto; padding-inline: var(--pad-x); }
+
+        /* ---------- shared bits ---------- */
+        .eyebrow {
+            font-family: var(--display); font-weight: 400; font-size: 13px;
+            letter-spacing: 0.32em; text-transform: uppercase; color: var(--gold);
+        }
+        .display { font-family: var(--display); font-weight: 700; line-height: 1.04; letter-spacing: -0.01em; }
+        .btn {
+            display: inline-flex; align-items: center; gap: 0.6em;
+            font-family: var(--display); font-weight: 400; font-size: 14px;
+            letter-spacing: 0.06em; text-transform: uppercase;
+            padding: 16px 28px; border-radius: 2px;
+            transition: transform .18s ease, background .18s ease, color .18s ease, border-color .18s ease;
+            cursor: pointer; white-space: nowrap;
+        }
+        .btn-gold { background: var(--gold); color: var(--navy-deep); }
+        .btn-gold:hover { transform: translateY(-2px); background: #f0c766; }
+        .btn-ghost { background: transparent; color: var(--white); border: 1px solid var(--navy-line); }
+        .btn-ghost:hover { border-color: var(--gold); color: var(--gold); }
+
+        /* ---------- header ---------- */
+        header {
+            position: sticky; top: 0; z-index: 50;
+            background: rgba(26, 31, 71, 0.78);
+            backdrop-filter: blur(14px); -webkit-backdrop-filter: blur(14px);
+            border-bottom: 1px solid var(--navy-line);
+        }
+        .nav {
+            max-width: var(--maxw); margin: 0 auto; padding-inline: var(--pad-x);
+            display: flex; align-items: center; gap: 40px; height: 82px;
+        }
+        .nav-logo { font-family: var(--display); font-weight: 700; color: var(--gold); font-size: 20px; letter-spacing: 1px; }
+        .nav-links { display: flex; align-items: center; gap: 34px; margin-left: auto; }
+        .nav-links a {
+            font-family: var(--display); font-size: 12px; letter-spacing: 0.16em;
+            text-transform: uppercase; color: var(--mist); transition: color .15s ease;
+        }
+        .nav-links a:hover, .nav-links a.active { color: var(--gold); }
+        .nav-links a.active { color: var(--gold); }
+        .nav-cta {
+            font-family: var(--display); font-size: 12px; letter-spacing: 0.1em; text-transform: uppercase;
+            color: var(--navy-deep); background: var(--gold); padding: 11px 20px; border-radius: 2px;
+            transition: transform .16s ease;
+        }
+        .nav-cta:hover { transform: translateY(-1px); }
+        @media(max-width:880px) { .nav-links { display: none; } }
+
+        /* ---------- page hero (inner pages) ---------- */
+        .page-hero { padding-top: clamp(58px, 7vw, 96px); padding-bottom: clamp(44px, 5vw, 68px); }
+        .breadcrumb { font-family: var(--display); font-size: 12px; letter-spacing: 0.18em; text-transform: uppercase; color: var(--mist-dim); margin-bottom: 30px; display: flex; gap: 12px; flex-wrap: wrap; }
+        .breadcrumb a:hover { color: var(--gold); }
+        .breadcrumb .sep { color: var(--navy-line); }
+        .page-hero h1 { font-size: clamp(36px, 5vw, 68px); max-width: 18ch; margin-bottom: 26px; }
+        .page-hero .lede { font-size: clamp(19px, 1.7vw, 24px); color: var(--mist); max-width: 60ch; line-height: 1.5; }
+        .page-hero .lede b { color: var(--white); font-weight: 600; }
+
+        /* ---------- stats / spec band ---------- */
+        .stats { background: var(--navy-deep); border-top: 1px solid var(--navy-line); border-bottom: 1px solid var(--navy-line); }
+        .stats-grid { display: grid; grid-template-columns: repeat(4, 1fr); }
+        .stat { padding: 46px 34px; border-right: 1px solid var(--navy-line); }
+        .stat:last-child { border-right: none; }
+        .stat .num { font-family: var(--display); font-weight: 700; font-size: clamp(28px, 2.8vw, 40px); color: var(--gold); line-height: 1; margin-bottom: 14px; }
+        .stat .lbl { font-size: 15px; color: var(--mist); line-height: 1.4; }
+        @media(max-width:760px) { .stats-grid { grid-template-columns: 1fr 1fr; } .stat { border-bottom: 1px solid var(--navy-line); } .stat:nth-child(2n) { border-right: none; } }
+
+        /* ---------- sections ---------- */
+        section.block { padding-block: clamp(72px, 9vw, 128px); }
+        section.block.tight { padding-block: clamp(56px, 6vw, 92px); }
+        section.alt { background: var(--navy-deep); border-top: 1px solid var(--navy-line); border-bottom: 1px solid var(--navy-line); }
+        .section-head { margin-bottom: clamp(44px, 5vw, 68px); max-width: 62ch; }
+        .section-head .eyebrow { display: block; margin-bottom: 22px; }
+        .lead { font-family: var(--display); font-weight: 400; line-height: 1.18; letter-spacing: -0.005em; font-size: clamp(26px, 3.1vw, 42px); }
+        .lead b { color: var(--gold); font-weight: 700; }
+
+        /* proof cards */
+        .proof-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 24px; }
+        .proof { background: var(--navy-panel); border: 1px solid var(--navy-line); border-radius: 4px; padding: 40px 34px; display: flex; flex-direction: column; transition: transform .2s ease, border-color .2s ease; }
+        .proof:hover { transform: translateY(-4px); border-color: var(--gold); }
+        .proof .metric { font-family: var(--display); font-weight: 700; font-size: clamp(32px, 3.4vw, 46px); color: var(--gold); line-height: 1.04; min-height: 2em; display: flex; align-items: flex-end; }
+        .proof .co { font-family: var(--display); font-size: 14px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--white); margin-top: 24px; margin-bottom: 14px; min-height: 2.7em; line-height: 1.35; }
+        .proof-grid.tall-co .co { min-height: 58px; }
+        .proof p { font-size: 15.5px; color: var(--mist); line-height: 1.55; }
+        @media(max-width:860px) { .proof-grid { grid-template-columns: 1fr; } }
+
+        /* two-col split (used for situation/complication & what we didn't do) */
+        .split { display: grid; grid-template-columns: repeat(2, 1fr); gap: 1px; background: var(--navy-line); border: 1px solid var(--navy-line); border-radius: 3px; overflow: hidden; }
+        .cell { background: var(--navy); padding: 38px 34px; }
+        .cell .ck { font-family: var(--display); font-size: 12px; letter-spacing: 0.18em; text-transform: uppercase; color: var(--gold); margin-bottom: 18px; }
+        .cell h3 { font-family: var(--display); font-weight: 700; font-size: clamp(19px, 1.9vw, 23px); color: var(--white); margin-bottom: 16px; }
+        .cell p { font-size: 16px; color: var(--mist); line-height: 1.55; }
+        .cell p+p { margin-top: 12px; }
+        @media(max-width:860px) { .split { grid-template-columns: 1fr; } }
+
+        /* ---------- process timeline / callouts ---------- */
+        .two-col { display: grid; grid-template-columns: 1fr 1fr; gap: clamp(40px, 6vw, 90px); align-items: start; }
+        .two-col .col-head { font-family: var(--display); font-size: 13px; letter-spacing: 0.18em; text-transform: uppercase; color: var(--gold); margin-bottom: 30px; }
+        @media(max-width:900px) { .two-col { grid-template-columns: 1fr; gap: 54px; } }
+
+        .callout { border: 1px solid var(--navy-line); border-radius: 4px; background: var(--navy-deep); padding: clamp(34px, 4vw, 52px); }
+        .callout .ck { font-family: var(--display); font-size: 13px; letter-spacing: 0.18em; text-transform: uppercase; color: var(--gold); margin-bottom: 18px; }
+        .callout p { font-size: clamp(18px, 1.8vw, 22px); color: var(--white); line-height: 1.5; max-width: 64ch; }
+        .callout p b { color: var(--gold); font-weight: 600; }
+        .callout.guarantee { border-color: rgba(227, 181, 76, 0.4); }
+
+        /* outcome ticks */
+        .ticks { display: grid; grid-template-columns: 1fr 1fr; gap: 16px 40px; }
+        .tick { display: flex; gap: 14px; align-items: baseline; font-size: 16.5px; color: var(--white); line-height: 1.45; }
+        .tick::before { content: ""; width: 9px; height: 9px; border-radius: 2px; background: var(--gold); flex: none; transform: translateY(1px); }
+        @media(max-width:700px) { .ticks { grid-template-columns: 1fr; } }
+
+        /* footer */
+        footer { background: var(--navy); border-top: 1px solid var(--navy-line); }
+        .foot { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 20px; padding-block: 34px; }
+        .foot .fmeta { display: flex; flex-wrap: wrap; gap: 28px; font-family: var(--display); font-size: 11px; letter-spacing: 0.16em; text-transform: uppercase; color: var(--mist-dim); }
+        .foot .fmeta a:hover { color: var(--gold); }
+    </style>
+</head>
+<body>
+
+<header>
+    <nav class="nav">
+        <a href="#" class="nav-logo">AI AMPLIFIER</a>
+        <div class="nav-links">
+            <a href="#">Home</a>
+            <a href="#">Services</a>
+            <a href="#" class="active">Case Studies</a>
+            <a href="#">About</a>
+            <a href="#">Contact</a>
+        </div>
+        <a href="#" class="nav-cta">Apply for a seat</a>
+    </nav>
+</header>
+
+<main>
+
+    <!-- HERO -->
+    <section class="page-hero">
+        <div class="wrap">
+            <div class="breadcrumb">
+                <a href="#">Home</a>
+                <span class="sep">/</span>
+                <a href="#">Case Studies</a>
+                <span class="sep">/</span>
+                <span>North America Entry</span>
+            </div>
+            <span class="eyebrow" style="display:block;margin-bottom:24px;">Case study · Cybersecurity · North America entry</span>
+            <h1 class="display">The educated early follower wins North America.</h1>
+            <p class="lede">How a European cybersecurity scale-up built a <b>$5–7M staged investment case</b> — and the three 90-day gates that decide commit, scope, or defer.</p>
+        </div>
+    </section>
+
+    <!-- SPEC BAND -->
+    <section class="stats" aria-label="Engagement at a glance">
+        <div class="wrap" style="padding-inline:0;">
+            <div class="stats-grid">
+                <div class="stat" style="padding-left:var(--pad-x);">
+                    <div class="num">10 weeks</div>
+                    <div class="lbl">Engagement duration</div>
+                </div>
+                <div class="stat">
+                    <div class="num">10</div>
+                    <div class="lbl">Executive-level operator interviews</div>
+                </div>
+                <div class="stat">
+                    <div class="num">3</div>
+                    <div class="lbl">90-day decision gates designed</div>
+                </div>
+                <div class="stat" style="padding-right:var(--pad-x);">
+                    <div class="num">Double-digit $M</div>
+                    <div class="lbl">Accessible revenue · bottom-up</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- SITUATION -->
+    <section class="block">
+        <div class="wrap">
+            <div class="section-head">
+                <span class="eyebrow">Situation & complication</span>
+                <p class="lead">A capital raise was on the table — <b>but only behind a highly operational, believable entry case.</b></p>
+            </div>
+            <div class="split">
+                <div class="cell">
+                    <div class="ck">Context</div>
+                    <p>A profitable European cybersecurity scale-up with proven Tier-1 telco footprint at home — eight-figure EBITDA base, sovereign-vendor tailwind in EU.</p>
+                    <p>The board asked one question: is North America the next leg of growth, or should this capital go to RoW expansion?</p>
+                </div>
+                <div class="cell">
+                    <div class="ck">Challenge</div>
+                    <p>A "go" of this size, made on top-down sizing and analyst reports, would burn multi-million capital against legacy assumptions about who actually buys consumer security at US Tier-1 carriers.</p>
+                    <p>The CEO needed a yes / no with the operational sequence underneath — not a maybe with options.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- RESOLUTION -->
+    <section class="block alt">
+        <div class="wrap">
+            <div class="section-head">
+                <span class="eyebrow">Resolution & deliverables</span>
+                <p class="lead">Ten conversations with the people who actually decide. <b>One framework the board could underwrite.</b></p>
+            </div>
+            <div class="proof-grid tall-co">
+                <div class="proof">
+                    <div class="metric">Double-digit $M</div>
+                    <div class="co">Year-5 growth potential, bottom-up</div>
+                    <p>Growth potential sized bottom-up across 55 mobile and 41 fixed operators; company-capturable revenue modeled at the operator level, with attach, pricing and rev-share assumptions stress-tested.</p>
+                </div>
+                <div class="proof">
+                    <div class="metric">10</div>
+                    <div class="co">Executive-level interviews</div>
+                    <p>Heads of product, security and VAS at Tier-1 and Tier-2 operators across Canada and the US — plus an independent advisor. Not analysts. The people who own the purchase order.</p>
+                </div>
+                <div class="proof">
+                    <div class="metric">3 × 90 days</div>
+                    <div class="co">Conditional commitment framework</div>
+                    <p>Three explicit gates — RFP engagement, partner LOI, US compliance readiness. Each one tested before the next dollar leaves the board.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- THE DIAGNOSTIC -->
+    <section class="block">
+        <div class="wrap">
+            <div class="section-head">
+                <span class="eyebrow">The diagnostic underneath</span>
+                <p class="lead">Independent judgment, free of internal bias — <b>and a US-grade plan.</b></p>
+            </div>
+            <div class="two-col" style="margin-bottom:30px;">
+                <div class="col-head" style="margin-bottom:0;">Key buying factors — heat-mapped</div>
+                <p style="font-size:18px;color:var(--mist);line-height:1.6;">13 KBFs tested against five primary interviews and a competitive bench. The result split three ways — and two of those ways the client had not seen.</p>
+            </div>
+            <div class="proof-grid">
+                <div class="proof">
+                    <div class="metric">8</div>
+                    <div class="co">Aligned with self-assessment</div>
+                    <p>Buying factors where the client's own read matched the operator evidence.</p>
+                </div>
+                <div class="proof">
+                    <div class="metric">3</div>
+                    <div class="co">Real gaps, under-weighted</div>
+                    <p>Factors the board had been discounting — surfaced as material risk to the entry case.</p>
+                </div>
+                <div class="proof">
+                    <div class="metric">2</div>
+                    <div class="co">Emerging moats</div>
+                    <p>Advantages the client did not yet know they owned — now part of the positioning.</p>
+                </div>
+            </div>
+            <div class="callout" style="margin-top:30px;">
+                <div class="ck">Scaling maturity analysis</div>
+                <p>A scaling-maturity analysis turned the client's own scaling machine into a <b>clear capability plan</b> — the build-out the organization needed to execute the entry successfully.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- OUTCOMES -->
+    <section class="block alt">
+        <div class="wrap">
+            <div class="section-head">
+                <span class="eyebrow">Measurable outcomes</span>
+                <p class="lead">A position, not a menu. <b>Conditional on tests the board can read.</b></p>
+            </div>
+            <div class="ticks">
+                <div class="tick"><b>Recommendation delivered</b> — Canada-direct + US-via-partner hybrid · staged $5–7M envelope · breakeven Y4.</div>
+                <div class="tick"><b>Three 90-day gates designed</b> — 3/3 hits = full commit · 2/3 = Canada-only ($2M tranche) · ≤1/3 = defer and redeploy to RoW.</div>
+                <div class="tick"><b>Partner shortlist assessed</b> — four named US / Canada candidates scored on motivation, fit and time-to-Tier-1.</div>
+                <div class="tick"><b>Readiness program initiated</b> — US SOC 2 Type II clock started, Delaware entity scoped, OFAC / CCPA / COPPA pre-flight defined.</div>
+                <div class="tick"><b>Geography-mode matrix</b> — 12 entry archetypes scored across success potential, time-to-logo, Y5 revenue and brand value; one dominant choice fell out cleanly.</div>
+            </div>
+
+            <div class="callout" style="margin-top:56px;">
+                <div class="ck">The rigor behind the recommendation</div>
+                <p>Bottom-up TAM / SAM / SOM at the operator level · KBF heat-map across 13 buying factors · Model A / B / C deployment analysis (network DNS · cloud DNS · app-SDK) · 5-year EBITDA case with peak-invest envelope · partner motivation scorecard · 90-day gate framework with explicit pass / fail criteria.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- THE CASE TO DEFER -->
+    <section class="block">
+        <div class="wrap">
+            <div class="section-head">
+                <span class="eyebrow">What we deliberately built first</span>
+                <p class="lead">The case to defer — <b>tested before the case to enter.</b></p>
+            </div>
+            <div class="callout guarantee">
+                <div class="ck">The strongest argument against</div>
+                <p>Three legitimate defer arguments tested in full: vendor recognition gap, EU capital opportunity cost, and unresolved product gaps. Each was addressable in <b>two quarters, not twelve.</b> The decision to enter is only defensible because the case against it was tested first.</p>
+                <p style="font-size:15px;color:var(--mist-dim);margin-top:22px;">Operator names, partner shortlist identities, and granular financial projections are held under NDA. Full case materials available on request.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- WHAT WE DID NOT DO -->
+    <section class="block alt">
+        <div class="wrap">
+            <div class="section-head">
+                <span class="eyebrow">What we deliberately did not do</span>
+                <p class="lead">Operator ownership over <b>consultant theatre.</b></p>
+            </div>
+            
+            <!-- This is the 2x2 grid (.split) -->
+            <div class="split">
+                <div class="cell">
+                    <div class="ck">No scenario decks</div>
+                    <p>The board needed a position, conditional on tests — not five futures.</p>
+                </div>
+                <div class="cell">
+                    <div class="ck">No three-horizon frameworks</div>
+                    <p>The clock was 18 months to first Tier-1 contract, not a decade.</p>
+                </div>
+                <div class="cell">
+                    <div class="ck">No optionality matrices</div>
+                    <p>Every gate is binary: hit it or down-scope.</p>
+                </div>
+                <div class="cell">
+                    <div class="ck">No analyst-only desk research</div>
+                    <p>The empirical backbone is five operator conversations, on the record under Chatham House rules.</p>
+                </div>
+            </div>
+
+        </div>
+    </section>
+
+    <!-- CTA -->
+    <section class="block">
+        <div class="wrap">
+            <div class="callout">
+                <div class="ck">Considering North America?</div>
+                <p>This is what the <b>North America Entry Sprint</b> produces — a board-grade position with the tests built in. Not "options to explore."</p>
+                <div style="margin-top:34px;display:flex;flex-wrap:wrap;gap:16px;">
+                    <a href="#" class="btn btn-gold">See the Sprint →</a>
+                    <a href="#" class="btn btn-ghost">Talk to Robert</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+</main>
+
+<footer>
+    <div class="wrap foot">
+        <a href="#" class="nav-logo" style="opacity:0.8;">AI AMPLIFIER</a>
+        <div class="fmeta">
+            <a href="#">Services</a>
+            <a href="#">Case Studies</a>
+            <a href="#">About</a>
+            <a href="#">Contact</a>
+            <span>© 2026 · aiamplifier.com</span>
+        </div>
+    </div>
+</footer>
+
+</body>
+</html>
