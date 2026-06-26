@@ -41,7 +41,7 @@ const engagements = [
     idx: '04',
     kicker: 'Market Entry',
     title: 'North America Entry Sprint',
-    path: '/market-entry-sprint',
+    path: '/north-america-entry',
     top: '6-8 weeks',
     sub: 'Defensible go / no-go',
     note: 'Bottom-up go / no-go'
