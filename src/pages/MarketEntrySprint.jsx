@@ -70,6 +70,51 @@ export default function MarketEntrySprint() {
           </div>
         </div>
       </section>
+
+      <section className="block alt">
+        <div className="wrap">
+          <div className="section-head">
+            <span className="eyebrow">Who this is for</span>
+            <p className="lead">The scale-up CEO with a plan, ready to attack.</p>
+          </div>
+          <div className="split cols-2">
+            <div className="cell deep">
+              <div className="ck">The Scale-up CEO | Revenue $25M – $250M</div>
+              <p>Strong domestic position, profitable. European or Asia-Pacific origin — entering North America for the first time. Ready to enter as the disciplined early follower, not the celebrated first mover.</p>
+            </div>
+            <div className="cell deep">
+              <div className="ck">What triggers the Sprint</div>
+              <p>Growth ceiling — home-market growth is saturated; the next leg has to come from somewhere new. Early-follower window — first-mover risk has passed; the window to enter as an educated early follower is open. Capital commitment ahead — a go / no-go decision on US entry capital is needed in 60–120 days, with a defensible answer.</p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section className="block">
+        <div className="wrap">
+          <div className="section-head">
+            <span className="eyebrow">Diagnostic Framework</span>
+            <p className="lead">Six lenses, bottom-up.</p>
+          </div>
+          <div className="split cols-3">
+            <div className="cell deep"><div className="ck">01 | Market Opportunity</div><p>TAM · SAM · SOM, bottom-up</p></div>
+            <div className="cell deep"><div className="ck">02 | Competitive Advantage</div><p>Buyer view vs. product reality</p></div>
+            <div className="cell deep"><div className="ck">03 | Entry Feasibility</div><p>Key buying factors · capability gaps</p></div>
+            <div className="cell deep"><div className="ck">04 | Winning Entry Strategy</div><p>Geography × mode matrix</p></div>
+            <div className="cell deep"><div className="ck">05 | Business Case</div><p>5-year ramp · EBITDA bridge · investment</p></div>
+            <div className="cell deep"><div className="ck">06 | SLT Workshop Focus</div><p>Deep-dive areas</p></div>
+          </div>
+        </div>
+      </section>
+
+      <section className="block alt">
+        <div className="wrap">
+          <div className="callout">
+            <div className="ck">Walk out with</div>
+            <p>Market-defensible attack plan — A go / no-go decision with bottom-up rationale. SLT-grade decision pack — Alignment in one leadership meeting. 90-day execution roadmap — First actions and milestones. Clear next step — Stage 2 NA build, or an honest no-go.</p>
+          </div>
+        </div>
+      </section>
     </main>
   );
 }

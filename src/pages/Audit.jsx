@@ -82,24 +82,7 @@ export default function Audit() {
               <div className="src">Sources: McKinsey, AI Amplifier Analysis</div>
             </div>
           </div>
-          <ScrollReveal>
-            <div className="wait-note">
-              <p>
-                Decide with conviction now. Three advantages compound for you. - <b>This is what the Briefing delivers.</b>
-              </p>
-              <ul>
-                <li>
-                  <b>Channel</b>: lock distribution before AI-native firms reach your customers.
-                </li>
-                <li>
-                  <b>Talent</b>: hire the AI operators who set the pace of the next cycle.
-                </li>
-                <li>
-                  <b>Pricing power</b>: set the AI cost floor before someone else sets it for you.
-                </li>
-              </ul>
-            </div>
-          </ScrollReveal>
+          {/* Duplicated wait-note section removed */}
         </div>
       </section>
 
@@ -155,7 +138,7 @@ export default function Audit() {
             <span className="eyebrow">Process & Deliverables</span>
             <p className="lead">The 1-month diagnostic.</p>
           </div>
-          <div className="proof-grid" style={{ gridTemplateColumns: 'repeat(4, minmax(0, 1fr))', marginTop: '28px' }}>
+          <div className="proof-grid" style={{ gridTemplateColumns: 'repeat(2, minmax(0, 1fr))', gap: '24px', marginTop: '28px' }}>
             <div className="proof">
               <div className="metric">Wk 1</div>
               <div className="co">Desk Research</div>

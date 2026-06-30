@@ -56,7 +56,7 @@ export default function AgenticOperatingModel() {
             <div className="trigger">
               <div className="tn">40%</div>
               <h4>The agentic wave is here</h4>
-              <p>of enterprise applications will feature task-specific AI agents by 2026, up from just 5% in 2025. The operators building agentic workflows now set the bar competitors will be measured against in 2027.</p>
+              <p>40% of enterprise applications will feature task-specific AI agents by 2026, up from just 5% in 2025. The operators building agentic workflows now set the bar competitors will be measured against in 2027.</p>
               <div className="src">Sources: Gartner</div>
             </div>
             <div className="trigger">
@@ -68,7 +68,7 @@ export default function AgenticOperatingModel() {
             <div className="trigger">
               <div className="tn">61%</div>
               <h4>Scope discipline decides</h4>
-              <p>of agentic-AI failures trace to scope creep and data quality; 27% to insufficient tool or data access; 14% to security blockers. The AI itself is rarely the problem - the operating model is.</p>
+              <p>61% of agentic-AI failures trace to scope creep and data quality; 27% to insufficient tool or data access; 14% to security blockers. The AI itself is rarely the problem - the operating model is.</p>
               <div className="src">Source: Digital Applied (2026)</div>
             </div>
           </div>
@@ -83,7 +83,7 @@ export default function AgenticOperatingModel() {
           </div>
           <div className="split cols-3">
             <div className="cell deep">
-              <div className="ck">AI Amplifier brings - Judgment</div>
+              <div className="ck">AI Amplifier brings - The Insight</div>
               <p>Customer-truth lens, target strategic agentic-model design, business case and value tracking, change-management narrative and CEO story.</p>
             </div>
             <div className="cell deep">
@@ -124,7 +124,7 @@ export default function AgenticOperatingModel() {
           </div>
           <div className="callout" style={{ marginTop: '32px' }}>
             <div className="ck">Not for</div>
-            <p>lack of strategic clarity (start with the Briefing) - pilot collectors - IT-owned transformations.</p>
+            <p>Lack of strategic clarity (start with the Briefing) - pilot collectors - IT-owned transformations.</p>
           </div>
         </div>
       </section>
@@ -163,7 +163,7 @@ export default function AgenticOperatingModel() {
             <p>Strategy without execution is theatre - let's build the part that ships.</p>
             <div style={{ marginTop: '34px', display: 'flex', flexWrap: 'wrap', gap: '16px' }}>
               <Link to="/contact" className="btn btn-gold">Discuss your agentic move →</Link>
-              <Link to="/ai-amplifier-briefing" className="btn btn-ghost">Start the Briefing</Link>
+              <Link to="/contact" className="btn btn-ghost">Start the Briefing</Link>
             </div>
           </div>
         </div>

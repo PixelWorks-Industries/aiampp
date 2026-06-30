@@ -56,13 +56,13 @@ export default function ValueCreationAudit() {
             <div className="trigger">
               <div className="tn">16,000</div>
               <h4>The exit backlog is real</h4>
-              <p>companies in the exit backlog. Hold periods are at a historic high of 6.6 years, up from 6.1 on average over 2011-20.</p>
+              <p>Companies in the exit backlog. Hold periods are at a historic high of 6.6 years, up from 6.1 on average over 2011-20.</p>
               <div className="src">Sources: McKinsey GPMR 2026 - Beating the Odds</div>
             </div>
             <div className="trigger">
-              <div className="tn">30% to 19%</div>
+              <div className="tn">19%</div>
               <h4>The plateau hides the next thesis</h4>
-              <p>early-exit rate today, collapsed from 30% before. Meanwhile continuation vehicles tripled - from ~$38B in 2020 to $115B in 2025 - as LPs demand cash.</p>
+              <p><b>19%</b> is the early-exit rate today, collapsed from <b>30%</b> before. Meanwhile continuation vehicles tripled - from ~$38B in 2020 to $115B in 2025 - as LPs demand cash.</p>
               <div className="src">Sources: Dechert - CAIA - Syndikos</div>
             </div>
             <div className="trigger">
@@ -79,18 +79,17 @@ export default function ValueCreationAudit() {
         <div className="wrap">
           <div className="callout">
             <div className="ck">Lead: Two doors. One diagnostic.</div>
-            <p>Door A: Founder / Scale-up CEO. Door B: PE Operating Partner. Door C: PE Deal Team.</p>
             <div className="split cols-3" style={{ marginTop: '24px' }}>
               <div className="cell deep">
-                <div className="ck">Door A</div>
+                <div className="ck">Door A: Founder / Scale-up CEO</div>
                 <p>Founder or post-Series-C CEO of a company over $30M. The plateau is real. The board's patience is finite.</p>
               </div>
               <div className="cell deep">
-                <div className="ck">Door B</div>
+                <div className="ck">Door B: PE Operating Partner</div>
                 <p>An OP managing a portfolio company over $20M revenue, 18-36 months from intended exit. The original thesis needs re-underwriting.</p>
               </div>
               <div className="cell deep">
-                <div className="ck">Door C</div>
+                <div className="ck">Door C: PE Deal Team</div>
                 <p>Partner, Principal, or VP underwriting a target - looking for the AI value-creation thesis that justifies the bid and accelerates the eventual exit.</p>
               </div>
             </div>
@@ -161,7 +160,7 @@ export default function ValueCreationAudit() {
             <div className="ck">Value Creation Final Callout</div>
             <p>
               Where is the next <b>$X million of EBITDA</b> hiding - owned, or about to be bought? A one-month diagnostic delivers the exit-acceleration attack plan - then
-              kick-starts hidden value extraction.
+              kick-starts AI-led value extraction.
             </p>
             <div style={{ marginTop: '34px', display: 'flex', flexWrap: 'wrap', gap: '16px' }}>
               <Link to="/contact" className="btn btn-gold">Discuss your value play →</Link>

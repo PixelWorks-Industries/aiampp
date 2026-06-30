@@ -58,19 +58,19 @@ export default function CaseStudies() {
                 <div className="cnum">01</div>
                 <div className="ctag">The Steering</div>
                 <h3>Deep customer understanding</h3>
-                <p>Knowing where the journey breaks, where doubt accumulates, and where the customer stops believing. AI cannot earn the right to act without it.</p>
+                <p style={{minHeight: '130px'}}>Knowing where the journey breaks, where doubt accumulates, and where the customer stops believing. AI cannot earn the right to act without it.</p>
               </div>
               <div className="ctrl">
                 <div className="cnum">02</div>
                 <div className="ctag">The Gearbox</div>
                 <h3>Responsible AI framework</h3>
-                <p>Guardrails that make every action fair, explainable and reversible. Not the brake - the gearbox that lets you scale safely.</p>
+                <p style={{minHeight: '130px'}}>Guardrails that make every action fair, explainable and reversible. Not the brake - the gearbox that lets you scale safely.</p>
               </div>
               <div className="ctrl">
                 <div className="cnum">03</div>
                 <div className="ctag">The Driver</div>
                 <h3>Human leadership</h3>
-                <p>The courage to leave the industry script, sign up for the promise, and own the outcome. Judgment stays with people.</p>
+                <p style={{minHeight: '130px'}}>The courage to leave the industry script, sign up for the promise, and own the outcome. Judgment stays with people.</p>
               </div>
             </div>
           </div>

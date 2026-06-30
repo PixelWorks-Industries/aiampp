@@ -55,20 +55,20 @@ export default function VodafoneTradeIn() {
             <div className="wrap">
               <div className="section-head">
                 <span className="eyebrow">Same pattern, different industry</span>
-                <p className="lead">A phone trade-in looks like a valuation problem. <b>It is a trust problem.</b></p>
+                <p className="lead">Friction, uncertainty, and trust.</p>
               </div>
-              <div className="fut-grid">
-                <div className="fut-card">
-                  <div className="ck">Friction</div>
-                  <p>An opaque, manual and slow valuation the customer can't follow.</p>
+              <div className="fut">
+                <div className="fut-row">
+                  <div className="futk">Friction</div>
+                  <div className="futv">An opaque, manual and slow valuation the customer can't follow.</div>
                 </div>
-                <div className="fut-card">
-                  <div className="ck">Uncertainty</div>
-                  <p>Will the offer hold? Am I getting a fair number?</p>
+                <div className="fut-row">
+                  <div className="futk">Uncertainty</div>
+                  <div className="futv">Will the offer hold? Am I getting a fair number?</div>
                 </div>
-                <div className="fut-card">
-                  <div className="ck">Trust</div>
-                  <p>Belief that the operator is acting in the customer's interest.</p>
+                <div className="fut-row">
+                  <div className="futk">Trust</div>
+                  <div className="futv">Belief that the operator is acting in the customer's interest.</div>
                 </div>
               </div>
               <p className="notfor" style={{ marginTop: '30px' }}><b>Source:</b> Vodafone.</p>
@@ -81,14 +81,34 @@ export default function VodafoneTradeIn() {
             <div className="wrap">
               <div className="section-head">
                 <span className="eyebrow">What drives trade-in value</span>
-                <p className="lead">AI grades each driver like the best human would - and a smart agent guides the customer.</p>
+                <p className="lead">AI grades each driver like the best human evaluator would - and a smart agent guides the customer.</p>
               </div>
-              <div className="trigger-grid" style={{ gridTemplateColumns: 'repeat(5, 1fr)' }}>
-                <div className="trigger"><div className="tn">Screen</div><h4>Screen condition</h4><div className="lbl">See · Know</div></div>
-                <div className="trigger"><div className="tn">Camera</div><h4>Camera & lens</h4><div className="lbl">See</div></div>
-                <div className="trigger"><div className="tn">Frame</div><h4>Back & frame</h4><div className="lbl">See · Know</div></div>
-                <div className="trigger"><div className="tn">Battery</div><h4>Battery health</h4><div className="lbl">Pass / Fail</div></div>
-                <div className="trigger"><div className="tn">Tests</div><h4>Functional tests</h4><div className="lbl">Pass / Fail</div></div>
+              <div className="driver-grid">
+                <div className="driver">
+                    <div className="dv">Screen</div>
+                    <h4>Screen condition</h4>
+                    <div className="dg">See · Know</div>
+                </div>
+                <div className="driver">
+                    <div className="dv">Camera</div>
+                    <h4>Camera & lens</h4>
+                    <div className="dg">See</div>
+                </div>
+                <div className="driver">
+                    <div className="dv">Frame</div>
+                    <h4>Back & frame</h4>
+                    <div className="dg">See · Know</div>
+                </div>
+                <div className="driver">
+                    <div className="dv">Battery</div>
+                    <h4>Battery health</h4>
+                    <div className="dg">Pass / Fail</div>
+                </div>
+                <div className="driver">
+                    <div className="dv">Tests</div>
+                    <h4>Functional tests</h4>
+                    <div className="dg">Pass / Fail</div>
+                </div>
               </div>
               <div className="callout" style={{ marginTop: '28px' }}>
                 <div className="ck">Do · Smart agent</div>

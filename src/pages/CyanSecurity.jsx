@@ -93,10 +93,19 @@ export default function CyanSecurity() {
               <p className="lead">A market-defensible attack plan.</p>
             </div>
           </ScrollReveal>
-          <div className="ticks">
-            <div className="tick">Market entry validated.</div>
-            <div className="tick">Defensible positioning identified.</div>
-            <div className="tick">Capital allocation optimized.</div>
+          <div className="proof-grid">
+            <div className="proof">
+              <div className="co">Market entry validated</div>
+              <p>Bottom-up sizing confirms the North America opportunity.</p>
+            </div>
+            <div className="proof">
+              <div className="co">Defensible positioning</div>
+              <p>Defined against buyer needs, not legacy assumptions.</p>
+            </div>
+            <div className="proof">
+              <div className="co">Capital allocation</div>
+              <p>Optimized investment case and funding ask.</p>
+            </div>
           </div>
         </div>
       </section>
