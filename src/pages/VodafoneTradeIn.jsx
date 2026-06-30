@@ -57,16 +57,16 @@ export default function VodafoneTradeIn() {
                 <span className="eyebrow">Same pattern, different industry</span>
                 <p className="lead">A phone trade-in looks like a valuation problem. <b>It is a trust problem.</b></p>
               </div>
-              <div className="split">
-                <div className="cell">
+              <div className="fut-grid">
+                <div className="fut-card">
                   <div className="ck">Friction</div>
                   <p>An opaque, manual and slow valuation the customer can't follow.</p>
                 </div>
-                <div className="cell">
+                <div className="fut-card">
                   <div className="ck">Uncertainty</div>
                   <p>Will the offer hold? Am I getting a fair number?</p>
                 </div>
-                <div className="cell">
+                <div className="fut-card">
                   <div className="ck">Trust</div>
                   <p>Belief that the operator is acting in the customer's interest.</p>
                 </div>

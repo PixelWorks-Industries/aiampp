@@ -36,7 +36,7 @@ export default function Services() {
               <div className="svc-idx">02 · Strategy + Execution · Agentic Operating Model</div>
               <h3>Agentic Operating Model</h3>
               <div className="svc-kick">With DotKonnekt</div>
-              <p>AI Amplifier provides the judgment. DotKonnekt provides the execution engine that ships it. A decision-grade agentic roadmap in one month, then live workflows in a quarter. No lock-in. Owned by your team. No lock-in.</p>
+              <p>AI Amplifier provides the judgment. DotKonnekt provides the execution engine that ships it. A decision-grade agentic roadmap in one month, then live workflows in a quarter. No lock-in. Owned by your team.</p>
               <div className="chips">
                 <span className="chip"><b>1 mo</b> agentic roadmap</span>
                 <span className="chip">1 quarter to production</span>

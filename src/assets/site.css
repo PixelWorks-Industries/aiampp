@@ -370,10 +370,15 @@ section.alt{background:var(--navy-deep);border-top:1px solid var(--navy-line);bo
 
 /* friction / uncertainty / trust labelled rows */
 .fut{display:flex;flex-direction:column;gap:14px;}
+.fut-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px;align-items:stretch;}
+.fut-card{background:var(--navy-deep);border:1px solid var(--navy-line);border-radius:4px;padding:26px 32px;display:flex;flex-direction:column;gap:12px;min-height:100%;}
+.fut-card .ck{margin-bottom:0;}
+.fut-card p{font-size:clamp(17px,1.7vw,21px);color:var(--white);line-height:1.4;}
 .fut-row{display:grid;grid-template-columns:210px 1fr;gap:24px;align-items:center;background:var(--navy-deep);border:1px solid var(--navy-line);border-radius:4px;padding:26px 32px;}
 .fut-row .futk{font-family:var(--display);font-size:14px;letter-spacing:0.18em;text-transform:uppercase;color:var(--gold);}
 .fut-row .futv{font-size:clamp(17px,1.7vw,21px);color:var(--white);line-height:1.4;}
 .fut-row .futv b{color:var(--gold);font-weight:600;}
+@media(max-width:980px){.fut-grid{grid-template-columns:1fr;}}
 @media(max-width:700px){.fut-row{grid-template-columns:1fr;gap:10px;padding:22px 24px;}}
 
 /* big quote block */

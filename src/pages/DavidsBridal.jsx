@@ -21,7 +21,7 @@ export default function DavidsBridal() {
               <span>David's Bridal</span>
             </div>
             <span className="eyebrow" style={{ display: 'block', marginBottom: '24px' }}>Proof 01 · Retail · Bridal · Executed by Dotkonnekt</span>
-            <h1 className="display">From one dress to an 18 month relationship.</h1>
+            <h1 className="display">From one dress to an 18-month relationship.</h1>
             <p className="lede"><b>David's Bridal</b> kept the steering human, then wired three gears of AI behind the Pearl app — turning a single transaction into the entire wedding journey.</p>
           </div>
         </section>

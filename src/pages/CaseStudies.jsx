@@ -86,12 +86,19 @@ export default function CaseStudies() {
               <div className="cell">
                 <div className="ck">Negative example - The steering missing</div>
                 <h3>IBM Watson Health</h3>
-                <p>IBM Watson Health had powerful AI but weak steering - it did not sufficiently reflect how clinicians actually make decisions. Intelligence, without the trust of the people whose judgment mattered most. $4B invested, mostly written off, some parts sold.</p>
+                <p>IBM Watson Health had powerful AI but
+weak steering it did not sufficiently reflect how clinicians actually make decisions. Intelligence, without
+
+the trust of the people whose judgment mattered most. $4B invested, mostly written off, some parts sold.</p>
               </div>
               <div className="cell">
                 <div className="ck">Negative example - Gearbox and driver missing</div>
                 <h3>Air Canada</h3>
-                <p>Air Canada's chatbot invented a refund promise the company never intended to make - weak gearbox, weak driver: not enough controls, accountability, or reversibility. The court saw what customers already knew: when the AI speaks to the customer, the brand is speaking.</p>
+                <p>Air Canada’s chatbot invented a refund
+promise the company never intended to make weak gearbox, weak driver: not enough controls,
+accountability, or reversibility. The court saw what customers already knew: when the AI speaks to the
+customer, the brand is speaking. The tribunal ruling itself was
+small (~CAD$812). The lasting damage was the precedent and the brand hit, not the cash settlement.</p>
               </div>
             </div>
           </div>
@@ -218,7 +225,7 @@ export default function CaseStudies() {
                 <div className="idx">03</div>
                 <div>
                   <div className="kicker">Cybersecurity - NA market entry</div>
-                  <div className="title">Cyan Security AG</div>
+                  <div className="title">European Cyber Security Company</div>
                 </div>
                 <div className="meta">
                   <div className="meta-top"><b>6 weeks</b> - Board-ready recommendation</div>
@@ -236,7 +243,7 @@ export default function CaseStudies() {
               <div className="ck">The takeaway</div>
               <p>
                 AI amplifies who you already are. <b>Winners have the courage to see the customer differently</b> - despite industry rules - and deploy all three gears of AI
-                with human controls.
+                with the right human controls.
               </p>
               <div style={{ marginTop: '34px', display: 'flex', flexWrap: 'wrap', gap: '16px' }}>
                 <Link to="/services" className="btn btn-gold">See the engagements →</Link>

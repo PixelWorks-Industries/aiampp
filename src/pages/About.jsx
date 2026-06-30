@@ -85,37 +85,6 @@ export default function About() {
         </div>
       </section>
 
-      <section className="block">
-        <div className="wrap">
-          <ScrollReveal>
-            <div className="section-head">
-              <span className="eyebrow">Academic foundations</span>
-              <p className="lead">Marketing, management, and entrepreneurship.</p>
-            </div>
-          </ScrollReveal>
-          <ScrollReveal>
-            <div className="split cols-4">
-              <div className="cell deep">
-                <div className="ck">Kellogg MBA</div>
-                <p>Northwestern - Marketing major</p>
-              </div>
-              <div className="cell deep">
-                <div className="ck">University of Vienna - PhD</div>
-                <p>Marketing - Vienna, Austria</p>
-              </div>
-              <div className="cell deep">
-                <div className="ck">HEC Paris / WU Vienna</div>
-                <p>European Management (CEMS-MIM)</p>
-              </div>
-              <div className="cell deep">
-                <div className="ck">WU Vienna</div>
-                <p>Entrepreneurship - Master&apos;s</p>
-              </div>
-            </div>
-          </ScrollReveal>
-        </div>
-      </section>
-
       <section className="block alt">
         <div className="wrap">
           <ScrollReveal>

@@ -155,21 +155,25 @@ export default function Audit() {
             <span className="eyebrow">Process & Deliverables</span>
             <p className="lead">The 1-month diagnostic.</p>
           </div>
-          <div className="split cols-3">
-            <div className="cell deep">
-              <div className="ck">Wk 1 | Desk Research</div>
+          <div className="proof-grid" style={{ gridTemplateColumns: 'repeat(4, minmax(0, 1fr))', marginTop: '28px' }}>
+            <div className="proof">
+              <div className="metric">Wk 1</div>
+              <div className="co">Desk Research</div>
               <p>Competitive mapping, friction analysis, and AI-exposure assessment.</p>
             </div>
-            <div className="cell deep">
-              <div className="ck">Wk 2 | Executive Interviews</div>
+            <div className="proof">
+              <div className="metric">Wk 2</div>
+              <div className="co">Executive Interviews</div>
               <p>Strategic intent and fear surfaced from CEO, SLT, and board.</p>
             </div>
-            <div className="cell deep">
-              <div className="ck">Wk 3 | Synthesis</div>
+            <div className="proof">
+              <div className="metric">Wk 3</div>
+              <div className="co">Synthesis</div>
               <p>Three Gears assessment, business-model options, and pressure test.</p>
             </div>
-            <div className="cell deep">
-              <div className="ck">Wk 4 | Stakeholder Alignment</div>
+            <div className="proof">
+              <div className="metric">Wk 4</div>
+              <div className="co">Stakeholder Alignment</div>
               <p>Findings aligned with SLT and board ahead of the board-ready recommendation.</p>
             </div>
           </div>

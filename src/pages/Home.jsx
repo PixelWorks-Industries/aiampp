@@ -121,7 +121,8 @@ export default function Home() {
             <div className="section-head">
               <span className="eyebrow">THE OPPORTUNITY AND THE AI AMPLIFIER PROMISE</span>
               <p className="lead">
-                Many expensive AI strategy decks survive the boardroom. <b>Almost none survive the customer.</b>
+                Many expensive AI strategy decks survive the boardroom. <b>Ours hold and ship because they
+start with the customer.</b>
               </p>
             </div>
           </ScrollReveal>

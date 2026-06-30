@@ -2,60 +2,33 @@ AI Amplifier · aiampcorp-v1.vercel.app
 
 / · Homepage
 
-HERO EYEBROW
-
 Deep customer insight → AI strategy that holds → shipped in a quarter
-
-H1
 
 Reinvent your business model before the industry reinvents it for you.
 
-SUB
-
 For mid-market CEOs and PE operating partners ready to compound their advantage in the AI era, and shape the industry rather than follow it.
 
-CTAS
-
-Start with the Briefing →  ·  See the four engagements
-
-TAG RIGHT
+Start with the Briefing →
+See the four engagements
 
 We answer one decision in one month. The rigor of a top-tier strategy house, plus an Enterprise AI platform that ships to production, owned by your team.
 
-DOMAIN
-
-aiamplifier.com  Zain: why do we have the webpage name here, is there a good reason, otherwise, I would delete
-
-STATS BAND
-
 $50B+ · shareholder value generated
-
 30 years · operator + advisor
-
 1 month · to market-ready attack plan
-
 1 quarter · to production
-
-OPPORTUNITY & PROMISE
 
 THE OPPORTUNITY AND THE AI AMPLIFIER PROMISE
 
-Many expensive AI strategy decks survive the boardroom.
-
-Almost none survive the customer. Ours hold and ship because they start with the customer.
-
-THREE PILLARS
+Many expensive AI strategy decks survive the boardroom. Ours hold and ship because they start with the customer.
 
 AI Amplifier · The decision
-
 One decision matters: reinvent your business model now, or play catch-up in it. We answer it in one month, with one accountable team.
 
 Robert Hackl · The insight
-
-$50B+ in shareholder value created across telecom and enterprise technology.The three things AI can't bring to your board: deep customer insight, industry-rule independence, and the operator's judgment of what to do next..
+$50B+ in shareholder value created across telecom and enterprise technology. The three things AI can't bring to your board: deep customer insight, industry-rule independence, and the operator's judgment of what to do next.
 
 DotKonnekt · The engine
-
 Full-stack enterprise AI platform with zero cloud, model, and framework lock-in. Built by embedded engineers, owned by your team. A proven execution engine in one engagement.
 
 The work moves you past AI exploration. After our joint success, the only question you will ask: what should we attack next?
@@ -64,67 +37,50 @@ PROOF — THREE INDUSTRIES, SAME PATTERN
 
 Customer truth, turned into measurable value.
 
-Tile 01 — Vodafone · Xchange
-
+Vodafone · Xchange
 5× volume
-
 Trade-in volume vs. price guarantee. NPS +32 over industry.
 
-Tile 02 — David’s Bridal · Pearl AI
-
+David’s Bridal · Pearl AI
 NPS 19 → 73
-
 Built with DotKonnekt. Addressable market widened from ~$4B (dresses) to ~$65B (full wedding journey).
 
-Tile 03 — European Cyber Security Company
-
+European Cyber Security Company
 $2B+ new SOM
-
 Targeted entry strategy with position, product roadmap, operator-led attack plan and 5 year BC
 
 FOUR FLAGSHIP ENGAGEMENTS
 
 Productized. Fixed fee, fixed scope, market-ready.
 
-01 · Front Door · The AI Amplifier Briefing
+Front Door · The AI Amplifier Briefing
+1 month · Market-ready attack plan, then one quarter to production
 
-1 month · Market-ready attack plan / then one quarter to production
+Strategy + Execution · Agentic Operating Model
+1 month · Decision-grade agentic roadmap, then one quarter to production
 
-02 · Strategy + Execution · Agentic Operating Model
+Value Creation · Value Targeting
+1 month · Hidden EBITDA located and sized, Kick start hidden value extraction
 
-1 month · Decision-grade agentic roadmap / then one quarter to production
-
-03 · Value Creation · Value Targeting
-
-1 month · Hidden EBITDA located and sized / Kick start AI-led value creation
-
-04 · Market Entry · North America Entry Sprint
-
-6-8 weeks · Defensible go / no-go / Market-ready attack plan
-
-CLOSING CTA
+Market Entry · North America Entry Sprint
+6-8 weeks · Defensible go / no-go, Market-ready attack plan
 
 Start the conversation.
-
 If the next nine months will decide your AI position — start here. We respond personally, within 24 hours.
 
-advisory@aiamplifier.com  ·  www.aiamplifier.com  ·  Incorporated in Florida, USA
-
-Start here →
+advisory@aiamplifier.com
+www.aiamplifier.com
+Incorporated in Florida, USA
 
 /about
-
-HERO
 
 Who you’ll work with.
 
 High-stakes transformation for CEOs and PE-backed businesses ready to reinvent.
 
-FOUNDER PROFILE  Zain: make my picture smaller and put the description below besides
+Robert Hackl · Founder & President
 
-Founder & President
-
-Robert Hackl — Operator. Builder. AI-era CEO partner.
+Operator. Builder. AI-era CEO partner.
 
 Bold ideas, executed. Over 30 years at the intersection of customer experience, technology, and business-model disruption, Robert has built market-leading growth organizations by turning complexity into clarity, underperformance into profitable growth, and disengaged teams into believers — work that has unlocked hidden value and contributed to more than $50B in shareholder value.
 
@@ -132,867 +88,274 @@ As Global President, CMO, and Board Director at MCE Systems, he repositioned the
 
 Fellow of The Marketing Academy. Writes on transformation, customer experience, and AI for Medium and Forbes.
 
-"My time with Robert was career-defining. He helped us break industry rules, deliver what others could not, and unlock my leadership potential." 
+"My time with Robert was career-defining. He helped us break industry rules, deliver what others could not, and unlock my leadership potential."
 
-EXECUTIVE TRACK RECORD · OPERATOR AND ADVISOR, AT SCALE
-
+Executive track record — operator and advisor, at scale
 MCE Systems — Global President · CMO · Board member
-
 Sprint — GM Handset Financing & Insurance · SVP Business Transformation
-
 Vodafone DE — COO · Service & tele-sales frontline, Digital Transformation, CX
-
 T-Mobile US — SVP Channel Management · SLT member
-
 Tele2 — CEO
-
 McKinsey & Co. — Associate Principal
 
-
-
-
-
-
-
-
-
-
-
-STRATEGIC PARTNERSHIP · DOTKONNEKT
-
+Strategic partnership — DotKonnekt
 Turn your AI ambition into business impact. Fast.
 
 With a full-stack AI Studio, domain expertise, and embedded engineering, we close the execution gap — getting AI into your systems, workflows, and teams in weeks, not years. Owned by you.
 
 Context Intelligence — AI strategy and industry-aligned workflows.
-
 AI Execution Platform — A full-stack Vertical AI Studio. Cloud, model, and framework agnostic.
-
 Embedded Delivery — Forward Deployed Engineers + production ops.
 
-OUR VALUES · HOW WE WORK — AND WHEN WE SAY NO
+Our values — How we work — and when we say no.
 
 Courage — Break the industry rule when the rule was wrong.
-
 Urgency — One month to decide, one quarter to ship.
-
 Independence — We sell judgment, not answers.
-
 Operator ownership — Your team runs it after we leave. No retainer, no dependency.
-
 Productized discipline — Fixed fee, fixed scope, market-ready.
-
 Honest fit — We turn down the engagements we can't win for you.
 
-CLOSING
-
 Turn AI ambition into business impact.
-
 One month to a strategy that holds. One quarter to one that ships. One team, all the way through.
 
-Start the conversation →  ·  See the engagements
+Start the conversation →
+See the engagements
 
 /services
-
-HERO
 
 Four flagship engagements.
 
 Productized but built for you. Start with the Briefing. Fixed fee, fixed scope, market-ready.
 
-CARD 01 · FRONT DOOR · THE AI AMPLIFIER BRIEFING
-
+01 · Front Door · The AI Amplifier Briefing
 Independent · Attack-ready · Execution with DotKonnekt
-
 One decision, answered in a month: reinvent your business model now, or lead the next cycle. An attack plan that outlasts the competition.
+1 mo attack plan · $95K fixed-fee · 3 outputs · 1 quarter to production
 
-Chips: 1 mo attack plan · $95K fixed-fee · 3 outputs · 1 quarter to production
-
-CTA: Explore the Briefing →
-
-CARD 02 · STRATEGY + EXECUTION · AGENTIC OPERATING MODEL
-
+02 · Strategy + Execution · Agentic Operating Model
 With DotKonnekt
+AI Amplifier provides the judgment. DotKonnekt provides the execution engine that ships it. A decision-grade agentic roadmap in one month, then live workflows in a quarter. No lock-in. Owned by your team.
+1 mo agentic roadmap · 1 quarter to production · 2–3 workflows
 
-AI Amplifier provides the judgment. DotKonnekt provides the execution engine that ships it. A decision-grade agentic roadmap in one month, then live workflows in a quarter. No lock-in. Owned by your team. No lock-in.
-
-Chips: 1 mo agentic roadmap · 1 quarter to production · 2–3 workflows
-
-CTA: Explore the model →
-
-CARD 03 · VALUE ACCELERATION · VALUE TARGETING
-
+03 · Value Creation · Value Targeting
 For founders & PE operating partners
-
 Where is the next $X million of EBITDA hiding — and what’s stopping you from pulling it? Six dimensions stress-tested, with an AI-led exit-acceleration attack plan in one month.
+1 mo attack plan · 6 dimensions · 3–5 levers
 
-Chips: 1 mo attack plan · 6 dimensions · 3–5 levers
-
-CTA: Explore Value Targeting →
-
-CARD 04 · MARKET ENTRY · NORTH AMERICA ENTRY SPRINT
-
+04 · Market Entry · North America Entry Sprint
 Bottom-up · Independent · Attack-ready
+Bottom-up sizing and operator interviews produce a market-defensible attack plan — a clear go / no-go in 6–8 weeks. Readiness, not "options to explore."
+6–8 weeks · $95K fixed-fee · 8–15 interviews
 
-Bottom-up sizing and corporate-buyer interviews produce a market-defensible attack plan — a clear go / no-go in 6–8 weeks. Readiness, not "options to explore."
+Where to start
+Not sure which door is yours? Start with the Briefing. It’s the front door — one month to a market-ready attack plan, and the honest basis for everything that follows. If we can't win for you, we say so before we start.
 
-Chips: 6–8 weeks · $95K fixed-fee · 8–15 interviews
-
-CTA: Explore the Sprint →
-
-Internal link in code goes to /market-entry-sprint but route is /north-america-entry — broken internal link.
-
-WHERE TO START
-
-Not sure which door is yours? Start with the Briefing.
-
-It’s the front door — one month to a market-ready attack plan, and the honest basis for everything that follows. If we can't win for you, we say so before we start.
-
-CTAs: Start with the Briefing →  ·  Talk to Robert
+Start with the Briefing →
+Talk to Robert
 
 /contact
 
-HERO
-
 Start the conversation.
-
 If the next nine months will decide your AI position — start here. We respond personally, within 24 hours.
 
-FORM — STRATEGIC INQUIRY · 3 FIELDS
-
-Full name · Corporate email address · What’s the strategic question you keep meaning to address?
-
-Placeholder for question: "The question on your mind…"
-
-Submit button: "Send to Robert →" (becomes "Sent ✓" on submit)
-
-Form note: Applications are triaged by company stage and routed directly to Robert Hackl. No Calendly hand-off. No six-field form.
-
-Success message: Thank you — your note is on its way to Robert. Expect a personal reply within 24 hours.
-
-WHO YOU’LL HEAR FROM
-
-Robert Hackl — Founder & President
-
-A personal reply within 24 hours — from me, not a junior associate or a calendar link.
-
-Limited capacity by design — We take on Briefings we can deliver well – not a queue of them.
-
-Not ready to talk? — Download the Customer Truth Test — six questions every CEO should answer before deploying AI.
-
-FOOTER
-
-advisory@aiamplifier.com  ·  www.aiamplifier.com  ·  Incorporated in Florida, USA
-
 /case-studies
-
-HERO
 
 Insights & Case studies
 
 AI amplifies who you already are.
 
-Intelligence is not judgment. We are letting agentic AI making decisions before teaching it what matters most: good human judgment. Sometimes it borrows from a prompt we typed in a hurry. Sometimes from the average of the internet. Sometimes from the company that built the system long before we showed up. The problem is that we rarely know whose judgment it is borrowing, and a generation that already trusts almost nothing is now being asked to trust decisions no one can explain. The companies that win keep three controls human, then wire three gears of AI behind them. Here is the approach, and the proof.
+Intelligence is not judgment. We are letting agentic AI make decisions before teaching it what matters most: good human judgment. Sometimes it borrows from a prompt we typed in a hurry. Sometimes from the average of the internet. Sometimes from the company that built the system long before we showed up. The problem is that we rarely know whose judgment it is borrowing, and a generation that already trusts almost nothing is now being asked to trust decisions no one can explain. The companies that win keep three controls human, then wire three gears of AI behind them. Here is the approach, and the proof.
 
 THE AMPLIFIER RULE
-
 Amplified value — three controls present. Friction and uncertainty removed, trust delivered, at scale.
-
 Amplified noise — controls missing. Expensive, confident-sounding mistakes.
 
-WHY THIS MOMENT IS DIFFERENT · THREE CONTROLS MUST STAY HUMAN
-
+WHY THIS MOMENT IS DIFFERENT — THREE CONTROLS MUST STAY HUMAN
 Otherwise, the model will invent — with confidence.
-
 The Steering — Deep customer understanding. Knowing where the journey breaks, where doubt accumulates, and where the customer stops believing. AI cannot earn the right to act without it.
-
 The Gearbox — Responsible AI framework. Guardrails that make every action fair, explainable and reversible. Not the brake — the gearbox that lets you scale safely.
-
 The Driver — Human leadership. The courage to leave the industry script, sign up for the promise, and own the outcome. Judgment stays with people.
 
 WHEN THE CONTROLS ARE MISSING
-
 Your ghost Formula One car with an empty seat is ready to crash your brand.
+IBM Watson Health — weak steering.
+Air Canada — weak gearbox, weak driver.
 
-Negative example · The steering missing — IBM Watson Health. IBM Watson Health had powerful AI but weak steering — it did not sufficiently reflect how clinicians actually make decisions. Intelligence, without the trust of the people whose judgment mattered most. $4B invested, mostly written off, some parts sold.
-
-Negative example · Gearbox & driver missing — Air Canada. Air Canada’s chatbot invented a refund promise the company never intended to make — weak gearbox, weak driver: not enough controls, accountability, or reversibility. The court saw what customers already knew: when the AI speaks to the customer, the brand is speaking. The tribunal ruling itself was small (~CAD$812). The lasting damage was the precedent and the brand hit, not the cash settlement.
-
-THE STEERING · BEFORE THE MODEL, THE MOMENT
-
+THE STEERING — BEFORE THE MODEL, THE MOMENT
 Find where the customer slows down, hesitates, abandons, or stops believing.
-
 That is where AI earns the right to act.
-
-Friction — The signal — where the journey breaks. Process makes the customer work harder than they should. Steps repeat. Forms multiply. Energy drains.
-
-Uncertainty — The doubt — where doubt accumulates. The customer cannot predict what happens next. The price might change. The promise might bend.
-
-Trust — The belief — where AI earns belief. The customer wonders whether the business acts in their interest. Trust must be designed, not declared.
+Friction — The signal — where the journey breaks.
+Uncertainty — The doubt — where doubt accumulates.
+Trust — The belief — where AI earns belief.
 
 THE THREE GEARS OF AI
-
 Once the human moment is clear, wire three gears in sequence — and turn a transaction into a relationship.
+01 · Perceptive AI — SEE. Detects live friction.
+02 · Analytical AI — KNOW. Reads uncertainty.
+03 · Generative AI — DO. Acts on trust.
 
-01 · Perceptive AI — SEE. Detects live friction. Vision, voice, behavior, language. Senses the signals the customer cannot easily explain.
-
-02 · Analytical AI — KNOW. Reads uncertainty. Connects the signal to value, risk, and timing. Decides what the moment means.
-
-03 · Generative AI — DO. Acts on trust. Executes the promise, explains the choice, reassures at the moment of truth.
-
-THE GEARBOX · RESPONSIBLE AI
-
+THE GEARBOX — RESPONSIBLE AI
 Responsible AI is not the brake. It is the gearbox.
-
 Make it easier — without taking control.
-
 Provide clarity — without false certainty.
-
 Make decisions fair, explainable, reversible.
 
-“Irresistibly alluring today. A force unto itself tomorrow. Scale trust before you scale tech.” — Noelle Russell, Scaling Responsible AI (Wiley, 2025)
-
-THE PROOF · SAME PATTERN, DIFFERENT INDUSTRY
-
-Two businesses that kept the controls human — and amplified the value.
-
+THE PROOF — SAME PATTERN, DIFFERENT INDUSTRY
 Retail · Bridal · The Pearl app — David’s Bridal — 1 → 18-month relationship · NPS 19 → 73 · $4B dresses → $65B full-journey market.
-
 Telecom · UK device trade-in — Vodafone UK Trade-In — 5× trade-in volume · NPS +32 over industry. From a painful trade-in to a price guarantee.
-
 Cybersecurity · NA market entry — European Cyber Security Company — 6 weeks · Board-ready recommendation. High-stakes North America validation.
 
 TAKEAWAY
-
 AI amplifies who you already are.
-
 Winners have the courage to see the customer differently — despite industry rules — and deploy all three gears of AI with the right human controls.
-
-CTAs: See the engagements →  ·  Talk to Robert
 
 /vodafone-trade-in
 
-BREADCRUMB
-
-Home / Case Studies / Vodafone UK Trade-In
-
-HERO
-
 Proof 02 · Telecom · Solving operational complexity at scale
-
 From a painful trade-in to a price guarantee.
-
 Vodafone UK treated device trade-in as what it really is — a trust problem, not a valuation problem — and amplified it with the same three gears.
 
-OUTCOMES AT A GLANCE (STATS)
-
-Trade-in volume · vs. industry 1.5×
-
-Evaluation accuracy · margins up 150%
-
-NPS uplift · 43 vs. industry 11
-
-+12 pts · Brand opinion · 42% favorable vs. industry 30%
-
-SAME PATTERN, DIFFERENT INDUSTRY
+OUTCOMES
+1.5× Trade-in volume
+150% Evaluation accuracy
+43 NPS uplift
++12 pts Brand opinion
 
 A phone trade-in looks like a valuation problem. It is a trust problem.
-
-Friction — An opaque, manual and slow valuation the customer can’t follow.
-
+Friction — An opaque, manual and slow valuation the customer can't follow.
 Uncertainty — Will the offer hold? Am I getting a fair number?
-
 Trust — Belief that the operator is acting in the customer’s interest.
 
-Source: Vodafone.
-
-WHAT DRIVES TRADE-IN VALUE · AI GRADES EACH DRIVER LIKE THE BEST HUMAN WOULD— AND A SMART AGENT GUIDES THE CUSTOMER
-
+WHAT DRIVES TRADE-IN VALUE
 Screen condition — See · Know
-
-Camera & lens — See · Know
-
+Camera & lens — See
 Back & frame — See · Know
-
 Battery health — Pass / Fail
-
 Functional tests — Pass / Fail
+Do · Smart agent
 
-Do · Smart agent — Repair-to-trade-in offer · New phone selection · Rate-plan upsell · VAS cross-sell.
-
-FROM A PAINFUL TRADE-IN TO A PRICE GUARANTEE · THE THREE GEARS IN SYNCH ENABLE A TRUSTED EXPERIENCE
-
-01 · Perceptive AI — SEE — The device, in milliseconds. Captures screen, camera, frame and condition engaging the customers live.
-
-02 · Analytical AI — KNOW — Graded against validated insights. Benchmarks each device against millions of prior valuations to set a fair, confident price.
-
-03 · Generative AI — DO — The next best step, guided. Presents the guaranteed offer and the right next move for the customer.
-
-
-
-
-
-
-
-
-
-
-
-MEASURABLE OUTCOMES · INDUSTRY-DEFINING IMPACT
-
-Trust, made operational — and measured. AI made the promise more credible, not just the process more digital.
-
-Trade-in volume — Versus industry 1.5×.
-
-Evaluation accuracy — Enabling the price guarantee, with margins up 150%.
-
-NPS uplift — NPS 43 vs. industry 11.
-
-+12 pts Brand opinion — 42% favorable vs. industry 30%.
-
-Source: Vodafone.
-
-CLOSING
-
-Where would the amplifier rule apply?
-
-Bridal and telecom share nothing — except a customer with friction, doubt, and a decision to trust. That is where AI earns the right to act based on customer insights and formalized judgment.
-
-CTAs: Talk to Robert →  ·  Back to the framework
+THE THREE GEARS IN SYNCH
+01 · Perceptive AI — SEE. The device, in milliseconds.
+02 · Analytical AI — KNOW. Graded against validated insights.
+03 · Generative AI — DO. The next best step, guided.
 
 /davids-bridal
 
-BREADCRUMB
-
-Home / Case Studies / David’s Bridal
-
-HERO
-
 Proof 01 · Retail · Bridal · Executed by DotKonnekt
-
 From one dress to an 18-month relationship.
-
 David’s Bridal kept the steering human, then wired three gears of AI behind the Pearl app — turning a single transaction into the entire wedding journey.
 
-OUTCOMES AT A GLANCE (STATS)
-
-1 → 18m — Dress transaction becomes a planning relationship
-
-16× — Market expansion · $4B → $65B addressable
-
-+54 — NPS uplift · rose from 19 to 73
-
-90% — Of brides make their first stop at David’s
+OUTCOMES
+1 → 18m relationship
+16× Market expansion
++54 NPS uplift
+90% Of brides make their first stop at David’s
 
 THE BRIDE’S EMOTIONAL JOURNEY
 
-then panic sets in.
-
-The human moment — The dress is the start, not the finish. What follows is 300 tasks, a moving budget, and a calendar that runs to the wedding day — all carried by someone doing this for the first time.
-
-The opportunity — A brand trusted at the most emotional moment of the journey is uniquely positioned to support everything that comes after it — if it can do so with confidence, not friction.
-
-Source: Kelly Cook interviews with Future Commerce and PYMNTS.
-
-THE STEERING · UNDERSTANDING THE BRIDE
-
+THE STEERING — UNDERSTANDING THE BRIDE
 Seventy-five years of bridal credibility, pointed at the real moment.
 
-100M+ — women dressed over 75 years — fueling trust, knowledge, and bridal credibility.
+ALL THREE GEARS AT WORK — THE PEARL APP
+01 · Perceptive AI — SEE.
+02 · Analytical AI — KNOW.
+03 · Generative AI — DO.
 
-90% — of brides make their first stop at David’s — an early signal and unmatched reach.
-
-Friction: 300 tasks, moving all the time.
-
-Uncertainty: Anxiety about — and about budget.
-
-Trust: Who can really help?
-
-ALL THREE GEARS AT WORK · THE PEARL APP
-
-See, know, and do — in sequence, for every bride.
-
-01 · Perceptive AI — SEE. Detects live friction. Reads style, mood, and inspiration the bride cannot easily put into words.
-
-02 · Analytical AI — KNOW. Her moving reality. Holds the budget, the calendar, and the 300 tasks — and how they shift week to week.
-
-03 · Generative AI — DO. The next best step. Guides the bride to what matters now, and reassures her at every decision.
-
-THE JOURNEY, EMPOWERED · THE GEARBOX IN PLACE
-
-A team of agents orchestrated — with guardrails on every action.
-
-Semantic search · persistent memory. One brain that remembers the bride and coordinates the specialists.
-
-Task management — End-to-end task lifecycle.
-
-Budget intelligence — Forecasts and anomaly detection.
-
-Milestone agent — Planning to wedding day.
-
-Vendor recommendation — Location, budget, style.
-
-Content recommendation — Themes and inspiration.
-
-The gearbox — Continuous evals · guardrails · policy compliance · safe execution.
-
-MEASURABLE OUTCOMES · A BUSINESS MODEL CHANGE, EXECUTED WITH EXCELLENCE
-
-Supporting the bride’s planning with confidence unlocked the entire vendor and media marketplace.
-
-1 → 18m The relationship — One dress transaction becomes an 18-month planning relationship.
-
-16× Market expansion — Addressable market widened from $4B in dresses to $65B across the full journey.
-
-+54 NPS uplift — Net Promoter Score rose from 19 to 73.
-
-Source: David’s Bridal Pearl announcement · Glassbox case study.
-
-CLOSING
-
-Same pattern, your industry
-
-The amplifier rule does not belong to bridal. See the customer differently, keep the controls human, wire the three gears — and a transaction becomes a relationship.
-
-CTAs: Next: Vodafone UK Trade-In →  ·  Back to the framework
+THE JOURNEY, EMPOWERED
+Semantic search, task management, budget intelligence, milestone agent, vendor recommendation, content recommendation.
 
 /ai-amplifier-briefing
 
-HERO
-
 The AI Amplifier Briefing
-
 Independent. Market-ready. One month.
 
 One decision, answered with operator rigor: lead the next cycle, or play catch-up in it. An attack plan you can bet the business on.
 
-ENGAGEMENT CHIPS
-
-1 month — Fixed timeline
-
-$95K — Fixed-fee · by application
-
-Fixed scope — Productized engagement
-
-3 outputs — SLT · Attack plan · 30-day plan
-
-WHY THE WINDOW IS OPEN — FOR NOW
-
-Three realities to act on before the operators who move first take the position.
-
-~145k — The advantage is consolidating
-
-Tech jobs cut in 2026 so far — about 979 a day. Oracle 30,000 in Q1. Amazon 16,000+. Meta 8,000. Roughly 25% attributed directly to AI and automation. The operating-cost reset is real — and it’s available to whoever moves on it first.
-
-Sources: TrueUp · Crunchbase · KORE1 · NPR
-
-$690B — The capital is rewiring the economy
-
-Hyperscaler CapEx in 2026 — about $450B AI-specific, near 1.9% of US GDP, larger than Apollo + the Interstate Highway combined. The infrastructure is being built for you — the question is whether you’re using it before your competitors do.
-
-Sources: Futurum · Introl · CreditSights 2026
-
-94% — The 12-month window is yours to take
-
-94% of companies see no significant value from AI (McKinsey) — meaning the field is wide open for the 6% who decide with conviction. 47% of C-suite leaders already say their AI pace is too slow. The advantage isn't AI itself — it's how fast you decide, and how well you know your customer to build on the right foundation.
-
-Sources: McKinsey, AI Amplifier Analysis
+WHY THE WINDOW IS OPEN
+~145k · Advantage is consolidating.
+$690B · The capital is rewiring the economy.
+94% · The 12-month window is yours to take.
 
 WHAT THE BRIEFING DELIVERS
+Decide with conviction now.
+Channel, Talent, Pricing power.
 
-Decide with conviction now. Three advantages compound for you. — This is what the Briefing delivers.
+Who this is for
+The CEO / Revenue $100M – $2B.
 
-Channel: lock distribution before AI-native firms reach your customers.
+Process & Deliverables
+The 1-month diagnostic.
 
-Talent: hire the AI operators who set the pace of the next cycle.
-
-Pricing power: set the AI cost floor before someone else sets it for you.
-
-### Who this is for
-
-- **Lead:** Built for the CEO making the call.
-
-- **The CEO | Revenue $100M – $2B**: Privately held, family-owned, or recently public. Ready to lead the next cycle, not be repriced by it. Buyer: CEO only · $50K – $150K decision authority.
-
-- **What triggers the Briefing**:
-
-  - **Board** — AI has reached the boardroom, and the answer needs to be sharper than a pilot update.
-
-  - **Competition** — AI-native entrant has shown up in your channel, and the response needs to be an attack plan, not a reaction.
-
-  - **Capital** — reinvention capital is on the table and the next 30 days decide where it goes.
-
-- **Not for:** CIOs / CTOs · pre-revenue founders · no defensible home position.
-
-
-
-### Process & Deliverables
-
-- **The 1-month diagnostic**:
-
-  - **Wk 1 | Desk Research**: Competitive mapping, friction analysis, and AI-exposure assessment.
-
-  - **Wk 2 | Executive Interviews**: Strategic intent and fear surfaced from CEO, SLT, and board.
-
-  - **Wk 3 | Synthesis**: Three Gears assessment, business-model options, and pressure test.
-
-  - **Wk 4 | Stakeholder Alignment**: Findings aligned with SLT and board ahead of the board-ready recommendation.
-
-- **Walk out with**:
-
-  - ** Market-ready attack plan **: The call, made. Defensible. Sized.
-
-  - **SLT-grade summary**: Alignment in one leadership meeting.
-
-  - **30-day action plan**: What to do now, and what to authorize.
-
-  - **Clear next step**: A Stage 2 path — or an honest no-go.
-
-THE GUARANTEE
-
-One month to a market-ready attack plan — and a defensible go / no-go. If we can't win for you, we say so before we start.
-
-CTA
-
-Start the Briefing →
+Walk out with: Market-ready attack plan, SLT-grade summary, 30-day action plan, Clear next step.
 
 /agentic-operating-model
 
-HERO
-
 Agentic Operating Model
-
-AI Amplifier provides the [judgment]. DotKonnekt provides the [execution engine] that ships it. A one-month decision-grade agentic roadmap, then live workflows in one quarter — not a POC. No lock-in. Owned by your team.
-
-ENGAGEMENT CHIPS
-
-1 month — SLT-level decision grade agentic roadmap
-
-1 quarter — Sprint to production · Workflows in operation
-
-1 team — AI Amplifier with DotKonnekt
+AI Amplifier provides the judgment. DotKonnekt provides the execution engine that ships it. A one-month decision-grade agentic roadmap, then live workflows in one quarter. No lock-in. Owned by your team.
 
 BEYOND THE PILOT
+40% of enterprise applications will feature task-specific AI agents by 2026.
+The 12% in production are pulling away.
+Scope discipline decides.
 
-Why the operators who reach production with agentic AI are compounding their lead — and how to be among them.
+The Joint Stack
+AI Amplifier brings · Judgment
+DotKonnekt brings · The execution engine
 
-The agentic wave is here
+What triggers the engagement
+For the business leader who needs production, not a deck.
 
-40% of enterprise applications will feature task-specific AI agents by 2026, up from just 5% in 2025. The operators building agentic workflows now set the bar competitors will be measured against in 2027.
-
-Sources: Gartner
-
-The 12% in production are pulling away
-
-88% of AI-agent projects never reach production — only about 12% make it (IDC). For the operators who do, agentic AI is already paying back: independent measurement shows roughly $3.70 returned for every $1 invested, with value realized in about 13 months (IDC/Microsoft). The gap to everyone else compounds every quarter.
-
-
-
-Sources: IDC / Microsoft · IDC production rate
-
-
-
-Scope discipline decides
-
-61% of agentic-AI failures trace to scope creep and data quality; 27% to insufficient tool or data access; 14% to security blockers. The AI itself is rarely the problem — the operating model is. Each of these is solvable with one accountable team that owns scope, data access, and security from day one.
-
-Source: Digital Applied (2026)
-
-
-
-### The Joint Stack
-
-- **Lead:** One accountable team. Two distinct contributions.
-
-- **AI Amplifier brings · Judgment**:
-
-  - Customer-truth lens, including the internal view.
-
-  - Target strategic agentic-model design.
-
-  - Business case and value tracking.
-
-  - Change-management narrative and CEO story.
-
-- **DotKonnekt brings · The execution engine**:
-
-  - Context Intelligence — AI strategy, roadmap, workflows.
-
-  - AI Execution Platform — the Vertical AI Studio.
-
-  - Embedded Delivery — Forward Deployed Engineers + ops management.
-
-- **Why DotKonnekt:** faster to production · lower risk · embedded partnership · deep vertical context.
-
-
-
-### What triggers the engagement
-
-- **Lead:** For the business leader who needs production, not a deck.
-
-- **01 | Pilots not moving**: Stuck in POC. Board patience running out.
-
-- **02 | Competitor in production**: A peer has deployed. The race has started.
-
-- **03 | Roadmap demand from above**: The board, owner, or investor is asking what the next 18 months of AI looks like — and the answer can't be a deck.
-
-- **04 | Strategic event ahead**: 18–24 months to an exit, IPO, or funding round.
-
-- **Not for:** lack of strategic clarity (start with the Briefing) · pilot collectors · IT-owned transformations.
-
-
-
-### Sponsor & Deliverables
-
-- **The sponsor**:
-
-  - **Who | The Business Leader**: CEO, business head, or business owner — sponsoring a tactical AI roadmap and build / buy / partner decisions.
-
-  - **Then | Production, not theatre**: Strategy without execution is theatre. Execution without strategy is waste. The joint engagement is built for the moment in between.
-
-- **Walk out with**:
-
-  - **2–3 workflows in production**: Deployed, tested, monitored — not a POC.
-
-  - **Governance + guardrails in place**: Criteria, evaluation framework, architectural guardrails.
-
-  - ** Market-tested value evidence **: ROI tracked, outcome captured, value proven in production.
-
-  - **Execution plan**: A ready-to-execute joint team.
-
-### Agentic Final Callout
-
-- **Closing:** Beyond the pilot. The 12% who ship are already pulling away. ** The other 88% ** never get past the POC. Strategy without execution is theatre — let's build the part that ships.
-
-- **Buttons:**
-
-  - Discuss your agentic move →
-
-  - Start the Briefing
+Sponsor & Deliverables
+Walk out with: 2–3 workflows in production, Governance + guardrails in place, Market-tested value evidence, Execution plan.
 
 /value-targeting
 
-HERO
-
 Value Targeting
-
-Where is the next $X million of EBITDA hiding — in the portfolio company you own, or the one you’re about to buy? A one-month diagnostic with an attack plan that accelerates the exit — then a kick-start to hidden value extraction.
-
-ENGAGEMENT CHIPS
-
-1 month — Diagnostic + exit-acceleration attack plan
-
-6 — Dimensions — revenue to org to AI
-
-$150K — Min scope
-
-18 mo — EBITDA lever horizon
+A one-month diagnostic with an attack plan that accelerates the exit — then a kick-start to hidden value extraction.
 
 WHERE THE NEXT VALUE LIVES
+The exit backlog is real.
+The plateau hides the next thesis.
+The value is already there.
 
-Three realities to act on the exit window doesn’t wait, but the value is already inside the asset, owned or prospective.
+Who this is for
+Founder / Scale-up CEO, PE Operating Partner, PE Deal Team.
 
-The exit backlog is real
+Engagement triggers
+3–4 yrs in the hold, 18–24 mo before exit, The plan signed off, not delivering, The next buyer will diagnose this before you do, Live bid with an AI thesis.
 
-of buyout inventory has been held more than four years — 16,000 companies in the exit backlog. Hold periods are at a historic high of 6.6 years, up from 6.1 on average over 2011–20.
-
-Sources: McKinsey GPMR 2026 · Beating the Odds
-
-The plateau hides the next thesis
-
-early-exit rate today, collapsed from 30% before. Meanwhile continuation vehicles tripled — from ~$38B in 2020 to $115B in 2025 — as LPs demand cash. The plateau is also where the AI value-levers are most underpriced.
-
-Sources: Dechert · CAIA · Syndikos
-
-1 month — The value is already there
-
-1 month is all it takes for Value Targeting to surface where the next EBITDA is hiding — durable revenue, pricing leverage, and AI value-levers the original thesis missed, or that a new thesis can be built on.
-
-Sources: AI Amplifier
-
-
-
-### Who this is for
-
-- **Lead:** Two doors. One diagnostic.
-
-Door A · Founder / Scale-up CEO: Founder or post-Series-C CEO of a >$30M company. The plateau is real. The board's patience is finite.
-
-Door B · PE Operating Partner: An OP managing a portfolio company >$20M revenue, 18–36 months from intended exit. The original thesis needs re-underwriting.
-
-Door C · PE Deal Team: Partner, Principal, or VP underwriting a target — looking for the AI value-creation thesis that justifies the bid and accelerates the eventual exit.
-
-- **Not for:** pre-PMF or turnaround assets · pure financial restructuring plays · CEO-replacement situations.
-
-- **Engagement Triggers**:
-
-  - **01 | 3–4 yrs in the hold**: Re-underwriting cadence for active portfolio assets.
-
-  - **02 | 18–24 mo before exit**: Exit-readiness — close the gap to the deal-model thesis.
-
-  - **03 | The plan signed off, not delivering: Budget is being missed quarter over quarter. The original Value Creation Plan needs a reset, not a relaunch.
-
-  - **04 | The next buyer will diagnose this before you do: An AI-fluent acquirer will spot the value levers you haven't pulled — and re-price the asset accordingly. Find them first. - ** 05 | Live bid with an AI thesis: Diligence window on a target where AI-amplifiable value is the bid case. The thesis needs validation before close — six dimensions diagnosed in compressed time.
-
-
-
-### Six dimensions diagnosed
-
-- **Lead:** From customer truth to a Value Creation Plan v1.
-
-- **Dimensions:**
-
-  1. Customer truth & NRR
-
-  2. Pricing & packaging leverage
-
-  3. GTM productivity
-
-  4. AI value-lever map
-
-  5. Org maturity & bandwidth
-
-  6. Value Creation Plan v1
-
-- **The Foundation**:
-
-  - **Truth | Customer-truth foundation**: 12–20 interviews. Durable revenue located.
-
-  - **Price | Pricing opportunity sized**: List-vs-realized gap closed on paper.
-
-- **Walk out with**:
-
-  - **Value Creation Plan v1**: 3–5 prioritized levers, customer-truth grounded.
-
-  - ** Exit-ready narrative **: The exit story, built.
-
-  - **Clear next step**: Stage 2: Agentic Operating Model with DotKonnekt.
-
-
-
-### Value Creation Final Callout
-
-- **Closing:** Closing: The value play. Where is the next ** $X million of EBITDA ** hiding — owned, or about to be bought? A one-month diagnostic delivers the exit-acceleration attack plan — then kick-starts hidden value extraction. 
-
-- **Buttons:**
-
-  - Discuss your value play →
-
-  - Then: Stage 2 execution
-
-
+Six dimensions diagnosed
+Customer truth & NRR, Pricing & packaging leverage, GTM productivity, AI value-lever map, Org maturity & bandwidth, Value Creation Plan v1.
 
 /north-america-entry
 
-BREADCRUMB
-
-Home / Case Studies / North America Entry
-
-HERO
-
-Case study · Cybersecurity · North America entry
-
 The educated early follower wins North America.
-
 How a European cybersecurity scale-up built a $5–7M staged investment case — and the three 90-day gates that decide commit, scope, or defer.
 
-Anonymized here. Named as "Cyan Security AG" on /case-studies hub.
-
-ENGAGEMENT AT A GLANCE (STATS)
-
-10 weeks — Engagement duration
-
-5 — Executive-level operator interviews
-
-3 — 90-day decision gates designed
-
-Double-digit $M — Accessible revenue · bottom-up
-
-Inconsistency: Services page says NA Sprint is 6–8 weeks. Case study says engagement was 10 weeks. Either acknowledge or rephrase.
+ENGAGEMENT AT A GLANCE
+10 weeks
+5 Executive-level operator interviews
+3 90-day decision gates designed
+Double-digit $M Accessible revenue
 
 SITUATION & COMPLICATION
-
 A capital raise was on the table — but only behind a highly operational, believable entry case.
 
-A profitable European cybersecurity scale-up with proven Tier-1 telco footprint at home — eight-figure EBITDA base, sovereign-vendor tailwind in EU.
-
-The board asked one question: is North America the next leg of growth, or should this capital go to RoW expansion?
-
-The CEO needed a yes / no with the operational sequence underneath — not a maybe with options.
-
 RESOLUTION & DELIVERABLES
-
 Ten conversations with the people who actually decide. One framework the board could underwrite.
 
-Double-digit $M — Year-5 growth potential, bottom-up. Growth potential sized bottom-up across 55 mobile and 41 fixed operators; company-capturable revenue modeled at the operator level, with attach, pricing and rev-share assumptions stress-tested.
-
-Executive-level interviews — Heads of product, security and VAS at Tier-1 and Tier-2 operators across Canada and the US — plus an independent advisor. Not analysts. The people who own the purchase order.
-
-3 × 90 days — Conditional commitment framework. Three explicit gates — RFP engagement, partner LOI, US compliance readiness. Each one tested before the next dollar leaves the board.
-
-"Ten conversations" in body vs. "5 executive-level operator interviews" in stats. Conflict.
-
 THE DIAGNOSTIC UNDERNEATH
-
-Independent judgment, free of internal bias — and a US-grade plan.
-
-Key buying factors — heat-mapped — 13 KBFs tested against five primary interviews and a competitive bench. The result split three ways — and two of those ways the client had not seen.
-
-Aligned with self-assessment — Buying factors where the client’s own read matched the operator evidence.
-
-Real gaps, under-weighted — Factors the board had been discounting — surfaced as material risk to the entry case.
-
-Emerging moats — Advantages the client did not yet know they owned — now part of the positioning.
-
-Scaling maturity analysis — A scaling-maturity analysis turned the client’s own scaling machine into a clear capability plan — the build-out the organization needed to execute the entry successfully.
+Independent judgment, free of internal bias.
 
 MEASURABLE OUTCOMES
-
 A position, not a menu. Conditional on tests the board can read.
 
-Recommendation delivered — Canada-direct + US-via-partner hybrid · staged $5–7M envelope · breakeven Y4.
-
-Three 90-day gates designed — 3/3 hits = full commit · 2/3 = Canada-only ($2M tranche) · ≤1/3 = defer and redeploy to RoW.
-
-Partner shortlist assessed — four named US / Canada candidates scored on motivation, fit and time-to-Tier-1.
-
-Readiness program initiated — US SOC 2 Type II clock started, Delaware entity scoped, OFAC / CCPA / COPPA pre-flight defined.
-
-Geography-mode matrix — 12 entry archetypes scored across success potential, time-to-logo, Y5 revenue and brand value; one dominant choice fell out cleanly.
-
 THE RIGOR BEHIND THE RECOMMENDATION
+Bottom-up TAM / SAM / SOM, KBF heat-map, Model A / B / C deployment analysis, 5-year EBITDA case, partner motivation scorecard, 90-day gate framework.
 
-Bottom-up TAM / SAM / SOM at the operator level · KBF heat-map across 13 buying factors · Model A / B / C deployment analysis (network DNS · cloud DNS · app-SDK) · 5-year EBITDA case with peak-invest envelope · partner motivation scorecard · 90-day gate framework with explicit pass / fail criteria.
+WHAT WE DELIBERATELY BUILT FIRST
+The strongest argument against.
 
-WHAT WE DELIBERATELY BUILT FIRST · THE CASE TO DEFER — TESTED BEFORE THE CASE TO ENTER
-
-The strongest argument against
-
-Three legitimate defer arguments tested in full: vendor recognition gap, EU capital opportunity cost, and unresolved product gaps. Each was addressable in two quarters, not twelve.
-
-The decision to enter is only defensible because the case against it was tested first.
-
-Operator names, partner shortlist identities, and granular financial projections are held under NDA. Full case materials available on request.
-
-WHAT WE DELIBERATELY DID NOT DO · OPERATOR OWNERSHIP OVER CONSULTANT THEATRE
-
-No scenario decks — The board needed a position, conditional on tests — not five futures.
-
-No three-horizon frameworks — The clock was 18 months to first Tier-1 contract, not a decade.
-
-No optionality matrices — Every gate is binary: hit it or down-scope.
-
-No analyst-only desk research — The empirical backbone is five operator conversations, on the record under Chatham House rules.
-
-A "go" of this size, made on top-down sizing and analyst reports, would burn multi-million capital against legacy assumptions about who actually buys consumer security at US Tier-1 carriers.
-
-CLOSING
-
-Considering North America?
-
-This is what the North America Entry Sprint produces — a board-grade position with the tests built in. Not "options to explore."
-
-CTAs: Do the Sprint →  ·  Talk to Robert
-
-CTAs: See the European Cyber Security case study
-
+WHAT WE DELIBERATELY DID NOT DO
+No scenario decks, no three-horizon frameworks, no optionality matrices, no analyst-only desk research.
