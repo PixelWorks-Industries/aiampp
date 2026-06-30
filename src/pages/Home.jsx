@@ -86,7 +86,6 @@ export default function Home() {
             <p className="hero-tag">
               We answer one decision in one month. The rigor of a top-tier strategy house, plus an Enterprise AI platform that ships to production, owned by your team.
             </p>
-            <span className="hero-domain">www.aiamplifier.com</span>
           </div>
         </div>
       </section>
