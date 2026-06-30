@@ -1,4 +1,3 @@
-import { Helmet } from 'react-helmet-async';
 import { Link } from 'react-router-dom';
 import ScrollReveal from '../components/ScrollReveal';
 
@@ -12,12 +11,10 @@ export default function NorthAmericaEntry() {
             <span className="sep">/</span>
             <Link to="/services">Services</Link>
             <span className="sep">/</span>
-            <span>North America Entry</span>
+            <span>North America Entry Sprint</span>
           </div>
-          <h1 className="display">Market Entry · North America Entry Sprint</h1>
-          <p className="lede">
-            Bottom-up sizing and operator interviews produce a market-defensible attack plan — a clear go / no-go in 6–8 weeks. Readiness, not "options to explore."
-          </p>
+          <h1 className="display">North America Market Entry Sprint</h1>
+          <p className="lede">Bottom-up sizing. Corporate-buyer interviews. A <b>market-defensible go / no-go - a bottom-up entry attack plan</b> in 6-8 weeks. The Sprint produces readiness - not "options to explore."</p>
         </div>
       </section>
 
@@ -25,20 +22,20 @@ export default function NorthAmericaEntry() {
         <div className="wrap" style={{ paddingInline: 0 }}>
           <div className="stats-grid">
             <div className="stat" style={{ paddingLeft: 'var(--pad-x)' }}>
-              <div className="num">6-8 weeks</div>
-              <div className="lbl">Engagement duration</div>
+              <div className="num">6-8 wks</div>
+              <div className="lbl">Fixed sprint window</div>
             </div>
             <div className="stat">
               <div className="num">$95K</div>
-              <div className="lbl">Fixed-fee</div>
+              <div className="lbl">Fixed-fee · by application</div>
             </div>
             <div className="stat">
-              <div className="num">Bottom-up</div>
-              <div className="lbl">Sizing + independent interviews</div>
+              <div className="num">8-15</div>
+              <div className="lbl">Corporate-buyer interviews</div>
             </div>
             <div className="stat" style={{ paddingRight: 'var(--pad-x)' }}>
-              <div className="num">Defensible</div>
-              <div className="lbl">Go / no-go decision</div>
+              <div className="num">75%</div>
+              <div className="lbl">Fail rate without structured entry</div>
             </div>
           </div>
         </div>
@@ -46,18 +43,29 @@ export default function NorthAmericaEntry() {
 
       <section className="block">
         <div className="wrap">
-          <div className="section-head">
-            <span className="eyebrow">The Sprint</span>
-            <p className="lead">Bottom-up independent validation of your North America entry thesis.</p>
-          </div>
-          <div className="split">
-            <div className="cell">
-              <div className="ck">The Problem</div>
-              <p>Top-down market sizing and analyst reports aren't enough to bet the company on. A North America entry is a massive capital and opportunity-cost commitment.</p>
+          <ScrollReveal>
+            <div className="section-head">
+              <span className="eyebrow">Why the disciplined second entrant wins</span>
+              <p className="lead">Three realities worth sitting with <b> if you intend to be the operator the pioneer made room for.</b></p>
             </div>
-            <div className="cell">
-              <div className="ck">The Solution</div>
-              <p>Independent operator interviews and bottom-up sizing to validate your entry thesis before you commit the capital.</p>
+          </ScrollReveal>
+          <div className="trigger-grid three">
+            <div className="trigger">
+              <div className="tn">75%</div>
+              <h4>The base rate is 75%</h4>
+              <p>75% of international expansion attempts fall short. The diligence math is stark: a $95K sprint versus a $1M-$3M+ wrong entry. The 25% who win are not the first to arrive - they are the first to arrive with bottom-up evidence.</p>
+              <div className="src">Sources: Wise / Altios 2025</div>
+            </div>
+            <div className="trigger">
+              <div className="tn">47%</div>
+              <h4>First-mover advantage is a myth</h4>
+              <p>47% first-mover failure rate, with the pioneers capturing only ~10% share at peak. The advantage accrues to the disciplined second entrant - early followers fail just 8% of the time and reach 28% share, informed by what the pioneer got wrong.</p>
+            </div>
+            <div className="trigger">
+              <div className="tn">2–3×</div>
+              <h4>The window is narrow</h4>
+              <p>2-3x what late entrants pay to catch up. Channel partners, the best talent, and reference customers lock in before late arrivals.</p>
+              <div className="src">Sources: AI Amplifier analysis</div>
             </div>
           </div>
         </div>
@@ -66,21 +74,17 @@ export default function NorthAmericaEntry() {
       <section className="block alt">
         <div className="wrap">
           <div className="section-head">
-            <span className="eyebrow">Deliverables</span>
-            <p className="lead">A market-defensible attack plan.</p>
+            <span className="eyebrow">Who this is for</span>
+            <p className="lead">The scale-up CEO with a plan, ready to attack.</p>
           </div>
-          <div className="proof-grid">
-            <div className="proof">
-              <div className="metric">Bottom-up Sizing</div>
-              <p>Operator-level TAM / SAM / SOM modeling.</p>
+          <div className="split cols-2">
+            <div className="cell deep">
+              <div className="ck">The Scale-up CEO | Revenue $25M - $250M</div>
+              <p>Strong domestic position, profitable. European or Asia-Pacific origin - entering North America for the first time. Ready to enter as the disciplined early follower, not the celebrated first mover. Buyer: CEO. Budget: operating reserve - a strategic allocation.</p>
             </div>
-            <div className="proof">
-              <div className="metric">Operator Evidence</div>
-              <p>8-15 independent interviews with decision-makers.</p>
-            </div>
-            <div className="proof">
-              <div className="metric">Go / No-go Decision</div>
-              <p>Defensible framework for capital allocation.</p>
+            <div className="cell deep">
+              <div className="ck">What triggers the Sprint</div>
+              <p>Growth ceiling - home-market growth is saturated; the next leg has to come from somewhere new. Early-follower window - first-mover risk has passed; the window to enter as an educated early follower is open. Capital commitment ahead - a go / no-go decision on US entry capital is needed in 60-120 days, with a defensible answer.</p>
             </div>
           </div>
         </div>
@@ -88,11 +92,38 @@ export default function NorthAmericaEntry() {
 
       <section className="block">
         <div className="wrap">
+          <div className="section-head">
+            <span className="eyebrow">Diagnostic Framework</span>
+            <p className="lead">Six lenses, bottom-up.</p>
+          </div>
+          <div className="split cols-3">
+            <div className="cell deep"><div className="ck">01 | Market Opportunity</div><p>TAM · SAM · SOM, bottom-up</p></div>
+            <div className="cell deep"><div className="ck">02 | Competitive Advantage</div><p>Buyer view vs. product reality</p></div>
+            <div className="cell deep"><div className="ck">03 | Entry Feasibility</div><p>Key buying factors · capability gaps</p></div>
+            <div className="cell deep"><div className="ck">04 | Winning Entry Strategy</div><p>Geography × mode matrix</p></div>
+            <div className="cell deep"><div className="ck">05 | Business Case</div><p>5-year ramp · EBITDA bridge · investment</p></div>
+            <div className="cell deep"><div className="ck">06 | SLT Workshop Focus</div><p>Deep-dive areas</p></div>
+          </div>
+        </div>
+      </section>
+
+      <section className="block alt">
+        <div className="wrap">
           <div className="callout">
-            <div className="ck">Ready to enter?</div>
-            <p>Start with the North America Entry Sprint. A clear go / no-go in 6–8 weeks.</p>
+            <div className="ck">Walk out with</div>
+            <p>Market-defensible attack plan - A go / no-go decision with bottom-up rationale. SLT-grade decision pack - Alignment in one leadership meeting. 90-day execution roadmap - First actions and milestones. Clear next step - Stage 2 NA build, or an honest no-go.</p>
+          </div>
+        </div>
+      </section>
+      
+      <section className="block">
+        <div className="wrap">
+          <div className="callout">
+            <div className="ck">Final Callout · Be the educated early follower</div>
+            <p>First movers don't win. Early followers do - but only the disciplined ones, armed with bottom-up validation before they spend a dollar. Six weeks. One attack plan. No "options to explore."</p>
             <div style={{ marginTop: '34px', display: 'flex', flexWrap: 'wrap', gap: '16px' }}>
-              <Link to="/contact" className="btn btn-gold">Do the Sprint →</Link>
+              <Link to="/contact" className="btn btn-gold">Validate your US entry →</Link>
+              <Link to="/case-studies" className="btn btn-ghost">See the European Cyber Security case study</Link>
             </div>
           </div>
         </div>
