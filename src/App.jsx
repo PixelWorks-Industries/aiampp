@@ -56,6 +56,7 @@ export default function App() {
             <Route path="/agentic-operating-model" element={<AgenticOperatingModel />} />
             <Route path="/value-targeting" element={<ValueCreationAudit />} />
             <Route path="/north-america-entry" element={<NorthAmericaEntry />} />
+            <Route path="/market-entry-sprint" element={<NorthAmericaEntry />} />
           </Routes>
         </main>
         <Footer />

@@ -5,8 +5,8 @@ import ScrollReveal from '../components/ScrollReveal';
 
 const proofs = [
   { metric: '5× volume', company: 'Vodafone · Xchange', text: 'Trade-in volume vs. price guarantee. NPS +32 over industry.', path: '/vodafone-trade-in' },
-  { metric: 'NPS 19 → 73', company: 'David\'s Bridal · Pearl AI', text: 'Built with DotKonnekt. Addressable market widened from ~$4B (dresses) to ~$65B (full wedding journey).', path: '/davids-bridal' },
-  { metric: '$2.B new SOM', company: 'European Cyber Security company', text: 'Targeted entry strategy with position, product roadmap, operator-led attack plan and 5 year BC', path: '/north-america-entry' }
+  { metric: 'NPS 19 → 73', company: "David's Bridal · Pearl AI", text: 'Built with DotKonnekt. Addressable market widened from ~$4B (dresses) to ~$65B (full wedding journey).', path: '/davids-bridal' },
+  { metric: '$2B+ new SOM', company: 'European Cyber Security Company', text: 'Targeted entry strategy with position, product roadmap, operator-led attack plan and 5 year BC', path: '/north-america-entry' }
 ];
 
 const engagements = [
@@ -44,7 +44,7 @@ const engagements = [
     path: '/north-america-entry',
     top: '6-8 weeks',
     sub: 'Defensible go / no-go',
-    note: 'Bottom-up go / no-go'
+    note: 'Market-ready attack plan'
   }
 ];
 
@@ -52,24 +52,41 @@ export default function Home() {
   return (
     <>
       <section className="hero" style={{ position: 'relative' }}>
-        <FloatingLines 
+        <FloatingLines
           style={{ position: 'absolute', inset: 0, zIndex: 0 }}
-          rotation={90} speed={0.2} colors={["#212255"]} transparent autoRotate={0} scale={1} frequency={1} warpStrength={1} mouseInfluence={1} parallax={0.5} noise={0.15} iterations={1} intensity={1.5} bandWidth={6} 
+          rotation={90}
+          speed={0.2}
+          colors={['#212255']}
+          transparent
+          autoRotate={0}
+          scale={1}
+          frequency={1}
+          warpStrength={1}
+          mouseInfluence={1}
+          parallax={0.5}
+          noise={0.15}
+          iterations={1}
+          intensity={1.5}
+          bandWidth={6}
         />
         <div className="wrap hero-grid" style={{ position: 'relative', zIndex: 1 }}>
           <div className="hero-main">
-            <span className="eyebrow">Strategy that survives the customer · Execution that survives the competition</span>
-            <h1 className="display">Reinvent your business model <em>before the industry reinvents it for you.</em></h1>
-            <p className="hero-sub">For mid-market CEOs and PE operating partners facing AI-driven disruption — ready to compound their advantage, and shape the industry rather than follow it.</p>
+            <span className="eyebrow">Deep customer insight → AI strategy that holds → shipped in a quarter</span>
+            <h1 className="display">Reinvent your business model before the industry reinvents it for you.</h1>
+            <p className="hero-sub">
+              For mid-market CEOs and PE operating partners ready to compound their advantage in the AI era, and shape the industry rather than follow it.
+            </p>
             <div className="hero-actions">
-              <Link to="/contact" className="btn btn-gold">Apply for a seat →</Link>
+              <Link to="/contact" className="btn btn-gold">Start with the Briefing →</Link>
               <Link to="/services" className="btn btn-ghost">See the four engagements</Link>
             </div>
           </div>
           <div className="hero-aside">
             <EqWave />
-            <p className="hero-tag">We answer one decision in one month. The rigor of a top-tier strategy house, plus an Enterprise AI platform that ships to production, owned by your team.</p>
-            <span className="hero-domain">aiamplifier.com</span>
+            <p className="hero-tag">
+              We answer one decision in one month. The rigor of a top-tier strategy house, plus an Enterprise AI platform that ships to production, owned by your team.
+            </p>
+            <span className="hero-domain">www.aiamplifier.com</span>
           </div>
         </div>
       </section>
@@ -87,12 +104,12 @@ export default function Home() {
                 <div className="lbl">operator + advisor</div>
               </div>
               <div className="stat">
-                <div className="num">~1 month</div>
+                <div className="num">1 month</div>
                 <div className="lbl">to market-ready attack plan</div>
               </div>
               <div className="stat" style={{ paddingRight: 'var(--pad-x)' }}>
-                <div className="num">16 weeks</div>
-                <div className="lbl">to production workflow</div>
+                <div className="num">1 quarter</div>
+                <div className="lbl">to production</div>
               </div>
             </div>
           </div>
@@ -104,30 +121,43 @@ export default function Home() {
           <ScrollReveal>
             <div className="section-head">
               <span className="eyebrow">THE OPPORTUNITY AND THE AI AMPLIFIER PROMISE</span>
-              <p className="lead">Many expensive AI strategy decks survive the boardroom. <b>Almost none survive the customer.</b></p>
+              <p className="lead">
+                Many expensive AI strategy decks survive the boardroom. <b>Almost none survive the customer.</b>
+              </p>
             </div>
           </ScrollReveal>
           <ScrollReveal>
             <div className="promise-cols">
               <div className="pcard">
-                <Link to="/" className="picon"><img className="plogo-amp" src="/assets/logo-white.png" alt="AI Amplifier Corporation" /></Link>
+                <Link to="/" className="picon">
+                  <img className="plogo-amp" src="/assets/logo-white.png" alt="AI Amplifier Corporation" />
+                </Link>
                 <h3>AI Amplifier <span>· The decision</span></h3>
-                <p>We exist for one decision: reinvent your business model now, or lead the next cycle, or play catch-up in it. We answer it in one month, under one accountable team.</p>
+                <p>One decision matters: reinvent your business model now, or play catch-up in it. We answer it in one month, with one accountable team.</p>
               </div>
               <div className="pcard">
-                <div className="picon"><img className="pphoto" src="/assets/robert-hackl.jpg" alt="Robert Hackl" /></div>
-                <h3>Robert Hackl <span>· The judgment</span></h3>
-                <p>$50B+ in shareholder value created across telecom and enterprise technology — the rare combination of deep customer insight, industry-rule independence, and technology fluency to unlock hidden value.</p>
+                <div className="picon">
+                  <img className="pphoto" src="/assets/robert-hackl.jpg" alt="Robert Hackl" />
+                </div>
+                <h3>Robert Hackl <span>· The insight</span></h3>
+                <p>
+                  $50B+ in shareholder value created across telecom and enterprise technology. The three things AI can't bring to your board: deep customer insight,
+                  industry-rule independence, and the operator's judgment of what to do next.
+                </p>
               </div>
               <div className="pcard">
-                <div className="picon"><img className="plogo-dk" src="/assets/dotkonnekt-logo.png" alt="DotKonnekt" /></div>
+                <div className="picon">
+                  <img className="plogo-dk" src="/assets/dotkonnekt-logo.png" alt="DotKonnekt" />
+                </div>
                 <h3>DotKonnekt <span>· The engine</span></h3>
                 <p>Full-stack enterprise AI platform with zero cloud, model, and framework lock-in. Built by embedded engineers, owned by your team. A proven execution engine in one engagement.</p>
               </div>
             </div>
           </ScrollReveal>
           <ScrollReveal>
-            <p className="promise-close">The work moves you past AI exploration. After our joint success, the only question you will ask: <b>what should we attack next?</b></p>
+            <p className="promise-close">
+              The work moves you past AI exploration. After our joint success, the only question you will ask: <b>what should we attack next?</b>
+            </p>
           </ScrollReveal>
         </div>
       </section>
@@ -136,7 +166,7 @@ export default function Home() {
         <div className="wrap">
           <ScrollReveal>
             <div className="section-head center">
-              <span className="eyebrow">Proof — three industries, same pattern</span>
+              <span className="eyebrow">PROOF — THREE INDUSTRIES, SAME PATTERN</span>
               <p className="lead">Customer truth, turned into measurable value.</p>
             </div>
           </ScrollReveal>
@@ -158,7 +188,7 @@ export default function Home() {
         <div className="wrap">
           <ScrollReveal>
             <div className="section-head">
-              <span className="eyebrow">Four flagship engagements</span>
+              <span className="eyebrow">FOUR FLAGSHIP ENGAGEMENTS</span>
               <p className="lead">Productized. Fixed fee, fixed scope, market-ready.</p>
             </div>
           </ScrollReveal>
@@ -172,7 +202,9 @@ export default function Home() {
                     <div className="title">{item.title}</div>
                   </div>
                   <div className="meta">
-                    <div className="meta-top"><b>{item.top}</b> · {item.sub}</div>
+                    <div className="meta-top">
+                      <b>{item.top}</b> · {item.sub}
+                    </div>
                     <div className="meta-sub">{item.note}</div>
                   </div>
                   <div className="go" aria-hidden="true">→</div>
@@ -187,7 +219,9 @@ export default function Home() {
         <div className="wrap">
           <ScrollReveal>
             <h2 className="display">Start the conversation.</h2>
-            <p className="cta-sub">If the next nine months will decide your AI position — start here. We respond personally, within 24 hours.</p>
+            <p className="cta-sub">
+              If the next nine months will decide your AI position — start here. We respond personally, within 24 hours.
+            </p>
           </ScrollReveal>
           <ScrollReveal>
             <div className="cta-row">

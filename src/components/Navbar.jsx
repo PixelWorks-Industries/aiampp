@@ -21,7 +21,7 @@ export default function Navbar() {
           <Link to="/case-studies" onClick={() => setIsOpen(false)}>Case Studies</Link>
           <Link to="/about" onClick={() => setIsOpen(false)}>About</Link>
           <Link to="/contact" onClick={() => setIsOpen(false)}>Contact</Link>
-          <Link to="/contact" className="nav-cta" onClick={() => setIsOpen(false)}>Apply for a seat</Link>
+          <Link to="/contact" className="nav-cta" onClick={() => setIsOpen(false)}>Start the conversation</Link>
         </div>
       </nav>
     </header>
