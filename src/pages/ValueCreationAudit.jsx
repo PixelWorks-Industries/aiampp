@@ -104,26 +104,26 @@ export default function ValueCreationAudit() {
             <span className="eyebrow">Engagement triggers</span>
             <p className="lead">Why this is the right diagnostic now.</p>
           </div>
-          <div className="split cols-5">
-            <div className="cell deep">
+          <div className="split cols-5" style={{ alignItems: 'stretch' }}>
+            <div className="cell deep" style={{ display: 'flex', flexDirection: 'column' }}>
               <div className="ck">01 | 3-4 yrs in the hold</div>
-              <p>Re-underwriting cadence for active portfolio assets.</p>
+              <p style={{ flexGrow: 1 }}>Re-underwriting cadence for active portfolio assets.</p>
             </div>
-            <div className="cell deep">
+            <div className="cell deep" style={{ display: 'flex', flexDirection: 'column' }}>
               <div className="ck">02 | 18-24 mo before exit</div>
-              <p>Exit-readiness - close the gap to the deal-model thesis.</p>
+              <p style={{ flexGrow: 1 }}>Exit-readiness - close the gap to the deal-model thesis.</p>
             </div>
-            <div className="cell deep">
+            <div className="cell deep" style={{ display: 'flex', flexDirection: 'column' }}>
               <div className="ck">03 | The plan signed off, not delivering</div>
-              <p>Budget is being missed quarter over quarter. The original Value Creation Plan needs a reset, not a relaunch.</p>
+              <p style={{ flexGrow: 1 }}>Budget is being missed quarter over quarter. The original Value Creation Plan needs a reset, not a relaunch.</p>
             </div>
-            <div className="cell deep">
+            <div className="cell deep" style={{ display: 'flex', flexDirection: 'column' }}>
               <div className="ck">04 | The next buyer will diagnose this before you do</div>
-              <p>An AI-fluent acquirer will spot the value levers you haven't pulled and re-price the asset accordingly. Find them first.</p>
+              <p style={{ flexGrow: 1 }}>An AI-fluent acquirer will spot the value levers you haven't pulled and re-price the asset accordingly. Find them first.</p>
             </div>
-            <div className="cell deep">
+            <div className="cell deep" style={{ display: 'flex', flexDirection: 'column' }}>
               <div className="ck">05 | Live bid with an AI thesis</div>
-              <p>Diligence window on a target where AI-amplifiable value is the bid case. The thesis needs validation before close.</p>
+              <p style={{ flexGrow: 1 }}>Diligence window on a target where AI-amplifiable value is the bid case. The thesis needs validation before close.</p>
             </div>
           </div>
         </div>
